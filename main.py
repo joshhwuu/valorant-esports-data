@@ -14,9 +14,11 @@ def format_to_csv(df, cols, path):
 url = "https://be-prod.rib.gg/v1/series?completed=true&take=50&eventIds%5B%5D=4388"  # replace with any event id on rib
 JSONContent = requests.get(url).json()
 matchIDs = []
+matchMaps = []
 for data in JSONContent["data"]:
     for match in data["matches"]:
         matchIDs.append(match["id"])
+        matchMaps.append(match["map"])
 
 # match events, each event is one of: start, kill, plant, defuse
 # all IDs are rib.gg internal
@@ -28,10 +30,11 @@ eventLocations = []
 # At the start of each round, economy info on each player
 playerEconomies = []
 
-for matchID in matchIDs:
+for matchID, matchMap in zip(matchIDs, matchMaps):
     content = requests.get("https://be-prod.rib.gg/v1/matches/" + str(matchID) + "/details").json()
     for event in content["events"]:
-        matchEvents.append([content["id"],
+        matchEvents.append([matchMap["name"],
+                            content["id"],
                             event["roundId"],
                             event["roundNumber"],
                             event["roundTimeMillis"],
@@ -49,7 +52,8 @@ for matchID in matchIDs:
                             event["ability"]])
 
     for location in content["locations"]:
-        eventLocations.append([location["roundNumber"],
+        eventLocations.append([matchMap["name"],
+                               location["roundNumber"],
                                location["playerId"],
                                location["roundTimeMillis"],
                                location["locationX"],
@@ -57,7 +61,8 @@ for matchID in matchIDs:
                                location["viewRadians"]])
 
     for economy in content["economies"]:
-        playerEconomies.append([economy["roundId"],
+        playerEconomies.append([matchMap["name"],
+                                economy["roundId"],
                                 economy["roundNumber"],
                                 economy["playerId"],
                                 economy["agentId"],
@@ -70,7 +75,8 @@ for matchID in matchIDs:
                                 economy["survived"],
                                 economy["kast"]])
 
-matchEvents_dataset_columns = ['Match_Id',
+matchEvents_dataset_columns = ['Map',
+                               'Match_Id',
                                'Round_ID',
                                'Round_Number',
                                'Round_Time',
@@ -89,14 +95,16 @@ matchEvents_dataset_columns = ['Match_Id',
 matchEvents_dataset_path = 'datasets/valorant-match-events.csv'
 format_to_csv(matchEvents, matchEvents_dataset_columns, matchEvents_dataset_path)
 
-eventLocations_dataset_columns = ['Round_Number',
+eventLocations_dataset_columns = ['Map',
+                                  'Round_Number',
                                   'Player_ID',
                                   'Round_Time',
                                   'X', 'Y',
                                   'View_Radians', ]
 eventLocations_dataset_path = 'datasets/valorant-event-locations.csv'
 format_to_csv(eventLocations, eventLocations_dataset_columns, eventLocations_dataset_path)
-playerEconomies_dataset_columns = ['Round_ID',
+playerEconomies_dataset_columns = ['Map',
+                                   'Round_ID',
                                    'Round_Number',
                                    'Player_ID',
                                    'Agent_ID',
