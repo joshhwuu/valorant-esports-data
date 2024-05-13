@@ -1,4 +1,4 @@
-,Match Id,Round ID,Round Number,Round Time,Event Type,Kill ID,Traded by ID,Traded for ID,Bomb Status,Resurrection ID,Player ID,Assists,Reference Player ID,Damage Type,Weapon ID,Ability
+,Match_Id,Round_ID,Round_Number,Round_Time,Event_Type,Kill_ID,Traded_by_ID,Traded_for_ID,Bomb_Status,Resurrection_ID,Player_ID,Assists,Reference_Player_ID,Damage_Type,Weapon_ID,Ability
 0,167897,2577042,1,0,start,,,,,,,[],,,,
 1,167897,2577042,1,64563,kill,20487335.0,,,,,1804.0,[],763.0,weapon,11.0,
 2,167897,2577042,1,69180,kill,20487329.0,,,,,1012.0,[],11412.0,weapon,12.0,

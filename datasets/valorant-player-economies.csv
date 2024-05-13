@@ -1,4 +1,4 @@
-,Round ID,Round Number,Player ID,Agent ID,Round Score,Weapon ID,Armor ID,Remaining Credits,Spent Credits,Loadout Value,Survived,kast
+,Round_ID,Round_Number,Player_ID,Agent_ID,Round_Score,Weapon_ID,Armor_ID,Remaining_Credits,Spent_Credits,Loadout_Value,Survived,kast
 0,2577042,1,763,2,152,12,,100,700,700,False,True
 1,2577042,1,1012,6,679,12,,100,700,700,True,True
 2,2577042,1,1023,21,215,12,,0,800,800,True,True
