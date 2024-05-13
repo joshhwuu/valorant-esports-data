@@ -1,6 +1,6 @@
 ## Valorant Esports Data
 
-This simple tool scrapes data from [rib.gg](https://www.rib.gg/) and formats it into three csv files: `valorant-event-locations.csv`, `valorant-match-events.csv` and `valorant-player-economies.csv`.
+This simple tool scrapes data from [rib.gg](https://www.rib.gg/) and returns three csv files: `valorant-event-locations.csv`, `valorant-match-events.csv` and `valorant-player-economies.csv`.
 
 Currently, URL is hardcoded but can be easily changed to accomodate whichever Valorant event you want to scrape. Simply change event id "4388" to the rib.gg id of any event.
 
