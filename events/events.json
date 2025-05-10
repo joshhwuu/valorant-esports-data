@@ -1,0 +1,6716 @@
+{
+  "pageProps": {
+    "events": [
+      {
+        "id": 5574,
+        "name": "Champions Tour 2025: Masters Toronto",
+        "shortName": "VCT 25: Masters Toronto",
+        "regionId": 7,
+        "imageUrl": "https://i.postimg.cc/28VBMypg/image.webp",
+        "startDate": "2025-06-08T01:03:33.000Z",
+        "endDate": "2025-06-12T01:03:33.000Z",
+        "region": {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "AMERICAS",
+          "EMEA",
+          "PACIFIC",
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5441,
+        "name": "Challengers League 2025 EMEA - Stage 2",
+        "shortName": "VCL 25 EMEA - Stage 2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/zXIHjKz.webp",
+        "startDate": "2025-05-19T06:38:10.000Z",
+        "endDate": "2025-05-24T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5642,
+        "name": "China Evolution Series: Act 2 X Asian Champions League",
+        "shortName": "China Evolution Series: Act 2 X Asian Champions League",
+        "regionId": 3,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/05/08/image.png",
+        "startDate": "2025-05-08T04:10:23.635Z",
+        "endDate": "2025-05-11T04:10:23.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5639,
+        "name": "Raidiant Academy 2025: 201",
+        "shortName": "Raidiant Academy 2025: 201",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/KYRQkSPD/image.webp",
+        "startDate": "2025-05-04T06:02:10.000Z",
+        "endDate": "2025-05-04T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5632,
+        "name": "FunhaverGG: ZERO IN - Qualifier 2",
+        "shortName": "ZERO//IN - Q2",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/C1PSZ6wz/image.webp",
+        "startDate": "2025-05-03T03:49:08.000Z",
+        "endDate": "2025-05-05T03:49:08.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5630,
+        "name": "Red Bull Instalock 2025",
+        "shortName": "Red Bull Instalock 2025",
+        "regionId": 7,
+        "imageUrl": "https://i.postimg.cc/L6cCLnpL/image.webp",
+        "startDate": "2025-05-02T11:50:53.000Z",
+        "endDate": "2025-05-03T18:30:00.000Z",
+        "region": {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS",
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5624,
+        "name": "Blooming Talents League Spring 2025",
+        "shortName": "BTL Spring 2025",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/988L0sX.webp",
+        "startDate": "2025-04-29T09:39:05.000Z",
+        "endDate": "2025-05-20T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5638,
+        "name": "Radiant Competitive Scene Series 3",
+        "shortName": "RCS - Series 3",
+        "regionId": 1,
+        "imageUrl": "https://i.postimg.cc/4xf6DknQ/RCS-darkmode.webp",
+        "startDate": "2025-04-28T05:12:35.000Z",
+        "endDate": "2025-05-04T05:12:35.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5620,
+        "name": "Quantum Esports Series Valorant 1 - US Space Force",
+        "shortName": " Quantum Esports Series 1",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/CvcEKyR.webp",
+        "startDate": "2025-04-27T09:00:04.000Z",
+        "endDate": "2025-04-29T09:00:04.527Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "UNI",
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5609,
+        "name": "Game Changers 2025 China: Stage 1",
+        "shortName": "GC 25: CN S1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-04-27T05:48:56.000Z",
+        "endDate": "2025-05-19T05:48:56.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5614,
+        "name": "Premier V25A2 Invite div Playoffs: Japan",
+        "shortName": "Premier V25A2 PO JP",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2025-04-27T02:05:35.000Z",
+        "endDate": "2025-04-27T02:05:35.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5612,
+        "name": "Saudi Womens eLeague 2025: Major 2",
+        "shortName": "SWEL 25: Major 2",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/FnzrCdU.webp",
+        "startDate": "2025-04-26T16:03:36.000Z",
+        "endDate": "2025-05-16T16:03:36.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5619,
+        "name": "Davies Valorant Tournament",
+        "shortName": "Davies Valorant Tournament",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-04-26T08:18:04.000Z",
+        "endDate": "2025-04-26T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5627,
+        "name": "FunhaverGG: ZERO IN - Qualifier 1",
+        "shortName": "ZERO//IN - Q1",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/C1PSZ6wz/image.webp",
+        "startDate": "2025-04-25T03:10:46.000Z",
+        "endDate": "2025-04-26T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5602,
+        "name": "YFP Lockdown Arena #6",
+        "shortName": "YFP Lockdown Arena 6",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/SXshS6G.webp",
+        "startDate": "2025-04-19T07:12:10.000Z",
+        "endDate": "2025-04-20T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5586,
+        "name": "Game Changers 2025 EMEA: Contenders Series 1",
+        "shortName": "GC 25 EMEA: Contenders Series 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2025-04-19T04:06:17.000Z",
+        "endDate": "2025-05-04T04:06:17.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5575,
+        "name": "College VALORANT 2024-2025: Championship",
+        "shortName": "CVAL 24-25: Championship",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/OacS6py.webp",
+        "startDate": "2025-04-18T11:53:49.974Z",
+        "endDate": "2025-06-01T11:53:49.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "UNI"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5589,
+        "name": "The Gathering 2025",
+        "shortName": "The Gathering 2025",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/ifKnftH.webp",
+        "startDate": "2025-04-18T06:43:28.000Z",
+        "endDate": "2025-04-17T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5588,
+        "name": "Insomnia Egypt 2025",
+        "shortName": "Insomnia Egypt 2025",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/e58JRb4.webp",
+        "startDate": "2025-04-17T06:18:46.000Z",
+        "endDate": "2025-04-26T06:18:46.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5621,
+        "name": "London Lock In 2025",
+        "shortName": "London Lock In 2025",
+        "regionId": 1,
+        "imageUrl": "https://i.allthepics.net/2024/06/10/image.png",
+        "startDate": "2025-04-16T07:40:11.000Z",
+        "endDate": "2025-04-15T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "UNI"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5582,
+        "name": "GoNxt Asia Clash Invitational 2025",
+        "shortName": "GoNxt Asia Clash 2025",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2025-04-16T05:35:13.000Z",
+        "endDate": "2025-04-19T05:35:13.093Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": []
+      },
+      {
+        "id": 5581,
+        "name": "Weekly Wednesday Premier Showdown 2 - Haven",
+        "shortName": "Wednesday Premier Showdown 2",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-04-16T05:03:36.000Z",
+        "endDate": "2025-04-15T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5577,
+        "name": "Global Esports' 2025 Fight Night #2",
+        "shortName": "Global Esports' 2025 Fight Night #2",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/KIRNGZh.webp",
+        "startDate": "2025-04-15T12:07:45.000Z",
+        "endDate": "2025-04-16T12:07:45.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5576,
+        "name": "Road to VCL MENA: North Africa and Levant #1",
+        "shortName": "Road to VCL MENA: North Africa and Levant #1",
+        "regionId": 5,
+        "imageUrl": "https://i.postimg.cc/YSC5VWng/image.webp",
+        "startDate": "2025-04-15T12:03:59.000Z",
+        "endDate": "2025-04-18T12:03:59.229Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5564,
+        "name": "Game Changers 2025 Japan: Split 1 ",
+        "shortName": "GC 25: JP S1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-04-15T04:59:27.000Z",
+        "endDate": "2025-04-30T04:59:27.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5605,
+        "name": "Finland National League Spring 2025: Division 1",
+        "shortName": "FNL Spring 2025: D1",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/p6rb1Ec.webp",
+        "startDate": "2025-04-14T04:48:29.000Z",
+        "endDate": "2025-06-03T04:48:29.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5570,
+        "name": "FunhaverGG: Mad Science - Draft 3",
+        "shortName": "FunhaverGG - Draft 3",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/7rj86aR.webp",
+        "startDate": "2025-04-11T18:30:00.000Z",
+        "endDate": "2025-04-14T05:24:38.110Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5542,
+        "name": "Challengers League 2025 North America ACE: Stage 2",
+        "shortName": "VCL 25 NA: Stage 2",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/9t8x0yW.webp",
+        "startDate": "2025-04-09T18:29:51.000Z",
+        "endDate": "2025-05-30T18:29:51.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5546,
+        "name": "Equal Esports Queens 2025: Split 2 - Division 2",
+        "shortName": "Equal Esports Queens 25 D2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/g7b4fN1.webp",
+        "startDate": "2025-04-09T09:19:39.000Z",
+        "endDate": "2025-05-06T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5556,
+        "name": "Weekly Wednesday Premier Showdown",
+        "shortName": "WWPS 1 - (Fracture)",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-04-09T03:52:14.000Z",
+        "endDate": "2025-04-08T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5559,
+        "name": "KovaaK's X Anti Tilt eSports Series #1",
+        "shortName": "KovaaK's X Anti Tilt eSports Series #1",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/W15yZtm.webp",
+        "startDate": "2025-04-05T02:48:00.000Z",
+        "endDate": "2025-04-04T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5549,
+        "name": "FunhaverGG: Mad Science - Draft 2",
+        "shortName": "FunhaverGG - Draft 2",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/7rj86aR.webp",
+        "startDate": "2025-04-04T18:30:00.000Z",
+        "endDate": "2025-04-06T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5548,
+        "name": "STARBORN SHOWDOWN hosted by Vivid",
+        "shortName": "STARBORN SHOWDOWN",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-04-04T09:23:11.000Z",
+        "endDate": "2025-04-03T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5591,
+        "name": "Challengers League 2025 Oceania - Split 1",
+        "shortName": "VCL 25: OCE S1",
+        "regionId": 6,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/01/30/image.png",
+        "startDate": "2025-04-03T06:48:38.000Z",
+        "endDate": "2025-05-27T06:48:38.000Z",
+        "region": {
+          "id": 6,
+          "name": "Oceana",
+          "code": "oc",
+          "slug": "oceana"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5535,
+        "name": "HL Tauri's Rivals - Season 1",
+        "shortName": "HL Tauri's Rivals - Season 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/9Pwhu1n.webp",
+        "startDate": "2025-03-31T06:50:57.435Z",
+        "endDate": "2025-03-31T06:50:57.435Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5531,
+        "name": "YFP Lockdown Arena #5",
+        "shortName": "YFP Lockdown Arena #5",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/SXshS6G.webp",
+        "startDate": "2025-03-29T07:07:27.000Z",
+        "endDate": "2025-03-31T07:07:27.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5585,
+        "name": "Aegis Community Clash // \"Welcome To The Clash\"",
+        "shortName": "Aegis Community Clash // \"Welcome To The Clash\"",
+        "regionId": 1,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/04/20/imageb3bb44388715f3f2.png",
+        "startDate": "2025-03-28T12:51:44.000Z",
+        "endDate": "2025-04-06T12:51:44.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5598,
+        "name": "WDG Challengers League 2025 Korea: Stage 2",
+        "shortName": "VCL 25 : KR S2",
+        "regionId": 3,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/01/30/image.png",
+        "startDate": "2025-03-28T05:27:22.000Z",
+        "endDate": "2025-06-30T05:27:22.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5530,
+        "name": "VEC Prophecies #1",
+        "shortName": "VEC Prophecies #1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/In8blRW.webp",
+        "startDate": "2025-03-26T11:33:53.848Z",
+        "endDate": "2025-04-13T11:33:53.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5461,
+        "name": "Champions Tour 2025: EMEA Stage 1",
+        "shortName": "VCT 25: EMEA Stage 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/OKzURqs.webp",
+        "startDate": "2025-03-26T04:43:36.000Z",
+        "endDate": "2025-05-18T04:43:36.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 1,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5476,
+        "name": "Challengers League 2025 Spain Rising: Split 2",
+        "shortName": "VCL 25 ES: Split 2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/WKXvQi8.webp",
+        "startDate": "2025-03-24T14:38:05.000Z",
+        "endDate": "2025-04-30T14:38:05.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5498,
+        "name": "Saudi eLeague 2025: Major 1",
+        "shortName": "Saudi eLeague 2025: Major 1",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/C3wmi3t.webp",
+        "startDate": "2025-03-24T06:57:08.000Z",
+        "endDate": "2025-04-11T06:57:08.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5583,
+        "name": "VTX 25: Stage 1 Playoffs",
+        "shortName": "VTX 25: Stage 1 Playoffs",
+        "regionId": 1,
+        "imageUrl": null,
+        "startDate": "2025-03-23T07:37:33.000Z",
+        "endDate": "2025-03-24T07:37:33.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5469,
+        "name": "Champions Tour 2025: Pacific Stage 1",
+        "shortName": "VCT 25: PAC Stage 1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/2pJERmN.webp",
+        "startDate": "2025-03-22T10:22:36.000Z",
+        "endDate": "2025-05-11T10:22:36.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 1,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5465,
+        "name": "Champions Tour 2025: Americas Stage 1",
+        "shortName": "VCT 25: AMER Stage 1",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/QPqjxTo.webp",
+        "startDate": "2025-03-22T10:04:39.000Z",
+        "endDate": "2025-05-04T10:04:39.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 1,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5440,
+        "name": "Challengers League 2025 France: Revolution Split 2",
+        "shortName": "VCL 25 FR: Revolution S2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/M37oPnh.webp",
+        "startDate": "2025-03-22T06:33:30.000Z",
+        "endDate": "2025-05-03T06:33:30.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5437,
+        "name": "Challengers League 2025 DACH: Evolution Split 2",
+        "shortName": "VCL 25: DACH S2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/eInyB4z.webp",
+        "startDate": "2025-03-22T06:24:52.000Z",
+        "endDate": "2025-05-11T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5525,
+        "name": "Equal Esports Queens 2025: Split 2 - Division 1",
+        "shortName": "Equal Esports Queens 25 D1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/g7b4fN1.webp",
+        "startDate": "2025-03-21T18:30:00.000Z",
+        "endDate": "2025-05-03T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5523,
+        "name": "Resurrection 2025",
+        "shortName": "Resurrection 2025",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/UIJA5Eh.webp",
+        "startDate": "2025-03-21T02:24:22.000Z",
+        "endDate": "2025-03-23T02:24:22.295Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5528,
+        "name": "Project: CyberDash",
+        "shortName": "Project: CyberDash",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/gN9lkti.webp",
+        "startDate": "2025-03-19T18:30:00.000Z",
+        "endDate": "2025-03-28T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5561,
+        "name": "Game Changers 2025 Oceania: Split 1",
+        "shortName": "GC 25: OCE S1",
+        "regionId": 6,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-03-18T05:29:42.000Z",
+        "endDate": "2025-03-23T05:29:42.000Z",
+        "region": {
+          "id": 6,
+          "name": "Oceana",
+          "code": "oc",
+          "slug": "oceana"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5496,
+        "name": "Challengers League 2025 Southeast Asia: Split 2",
+        "shortName": "VCL SEA: Split 2",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/FLYiZuk.webp",
+        "startDate": "2025-03-17T15:29:03.000Z",
+        "endDate": "2025-04-29T15:29:03.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5484,
+        "name": "Challengers League 2025 Türkiye Birlik: Split 2",
+        "shortName": "VCL 25 Türkiye: S2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/XWtVOtA.webp",
+        "startDate": "2025-03-17T04:25:20.000Z",
+        "endDate": "2025-05-04T04:25:20.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5514,
+        "name": "POP Esports Masters Season 6",
+        "shortName": "POP Esports Masters Season 6",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/FOsUmIU.webp",
+        "startDate": "2025-03-17T04:11:55.000Z",
+        "endDate": "2025-06-07T04:11:55.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5472,
+        "name": "Spike Drop 4: Momentum Series",
+        "shortName": "Spike Drop 4: Momentum Series",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/yJNaU5C.webp",
+        "startDate": "2025-03-15T03:30:39.000Z",
+        "endDate": "2025-03-16T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5489,
+        "name": "Red Bull Home Ground 2025: Germany",
+        "shortName": "Red Bull Home Ground 2025 Germany",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/Zfr0xKB.webp",
+        "startDate": "2025-03-14T12:17:06.000Z",
+        "endDate": "2025-04-12T12:17:06.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5492,
+        "name": "Alliance Moonlit Sakura Showdown",
+        "shortName": "Alliance Moonlit Sakura Showdown",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-03-14T04:43:46.000Z",
+        "endDate": "2025-03-15T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5438,
+        "name": "Challengers League 2025 Spain Rising: Split 1 - Relegation",
+        "shortName": "VCL 25 ES: Relegation S1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/WKXvQi8.webp",
+        "startDate": "2025-03-13T06:28:30.000Z",
+        "endDate": "2025-03-13T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5474,
+        "name": "Champions Tour 2025: China Stage 1",
+        "shortName": "VCT 25: CN Stage 1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/bwJV78X.webp",
+        "startDate": "2025-03-13T03:28:44.000Z",
+        "endDate": "2025-05-09T03:28:44.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 1,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5404,
+        "name": "Challengers League 2025 NORTH EAST: Split 2",
+        "shortName": "VCL 25 N//E: Split 2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/31We3Zg.webp",
+        "startDate": "2025-03-12T04:26:06.000Z",
+        "endDate": "2025-04-27T04:26:06.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5517,
+        "name": "Nerve Esports Circuit: Season 2",
+        "shortName": "Nerve Esports Circuit: S2",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/PvCflCu.webp",
+        "startDate": "2025-03-10T10:40:49.000Z",
+        "endDate": "2025-05-12T10:40:49.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5463,
+        "name": "600$ CAD TELUS Arena Valorant #7",
+        "shortName": "600$ CAD TELUS Arena Valorant #7",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-03-08T06:07:04.000Z",
+        "endDate": "2025-03-09T06:07:04.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5412,
+        "name": "Challengers League 2025 MENA: Resilience Split 1",
+        "shortName": "VCL 25: MENA S1",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/xjglApI.webp",
+        "startDate": "2025-03-08T02:59:36.000Z",
+        "endDate": "2025-05-13T02:59:36.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5527,
+        "name": "VALORANT Open Tour France 2025: Last Chance Qualifier",
+        "shortName": "VOT France 2025: LCQ",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/1hpumfN.webp",
+        "startDate": "2025-03-08T02:06:08.000Z",
+        "endDate": "2025-03-09T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5453,
+        "name": "FunhaverGG: Mad Science - Draft",
+        "shortName": "FunhaverGG - Draft",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/7rj86aR.webp",
+        "startDate": "2025-03-08T00:26:01.000Z",
+        "endDate": "2025-03-10T00:26:01.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5457,
+        "name": "Game Changers 2025 Brazil: Stage 1",
+        "shortName": "GC 25: BR S1",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-03-07T03:16:31.000Z",
+        "endDate": "2025-05-16T03:16:31.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5443,
+        "name": "Challengers League 2025 Japan: Split 2",
+        "shortName": "VCL 25: JP S2",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/FLYiZuk.webp",
+        "startDate": "2025-03-06T18:19:07.000Z",
+        "endDate": "2025-05-17T18:19:07.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5450,
+        "name": "Game Changers 2025 Italy: Genesi",
+        "shortName": "GC 25 Italy: Genesi",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2025-03-05T08:15:04.000Z",
+        "endDate": "2025-05-01T08:15:04.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5432,
+        "name": "Game Changers 2025 North America: Stage 1",
+        "shortName": "GC 25 NA: S1",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-03-04T18:40:46.148Z",
+        "endDate": "2025-06-01T18:40:46.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5481,
+        "name": "Game Changers 2025 Southeast Asia: Split 1",
+        "shortName": "GC 25: SEA S1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-03-04T06:45:16.000Z",
+        "endDate": "2025-03-17T06:45:16.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5387,
+        "name": "Challengers League 2025 EMEA - Stage 1",
+        "shortName": "VCL 25 EMEA - Stage 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/zXIHjKz.webp",
+        "startDate": "2025-03-03T13:38:55.000Z",
+        "endDate": "2025-03-08T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5421,
+        "name": "Premier V25A1 Invite div Playoffs: JP - Group 1",
+        "shortName": "Premier V25A1 PO JP G1",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2025-03-02T03:39:12.000Z",
+        "endDate": "2025-03-02T03:39:12.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5407,
+        "name": "Premier V25A1 Invite div Playoffs: JP",
+        "shortName": "Premier V25A1 PO JP",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2025-03-01T15:16:31.000Z",
+        "endDate": "2025-03-01T15:16:31.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5459,
+        "name": "The Octuple Cup #6",
+        "shortName": "The Octuple Cup #6 $50",
+        "regionId": 2,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/03/04/image6f46bcdd125c5c43.png",
+        "startDate": "2025-03-01T13:01:46.000Z",
+        "endDate": "2025-03-02T13:01:46.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5502,
+        "name": "CVAL 2024-2025 Partner Conferences",
+        "shortName": "CVAL 24/25  Partner Conferences",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/OacS6py.webp",
+        "startDate": "2025-03-01T12:38:21.000Z",
+        "endDate": "2025-04-12T12:38:21.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "UNI"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5406,
+        "name": "The Surge #3",
+        "shortName": "The Surge #3",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/3qZkhIK.webp",
+        "startDate": "2025-03-01T09:20:49.000Z",
+        "endDate": "2025-03-03T09:20:49.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5397,
+        "name": "FunhaverGG x HyperX Momentum Series: Last Chance Qualifier",
+        "shortName": "FunhaverGG x HyperX : LCQ",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/VEPXX7C.webp",
+        "startDate": "2025-03-01T05:18:43.853Z",
+        "endDate": "2025-03-03T05:18:43.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5447,
+        "name": "Saudi Womens eLeague 2025: Major 1",
+        "shortName": "SWEL 25: Major 1",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/FnzrCdU.webp",
+        "startDate": "2025-02-27T07:25:49.000Z",
+        "endDate": "2025-03-21T07:25:49.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5390,
+        "name": "VALORANT UK Circuit Winter 2025",
+        "shortName": "UK Circuit Winter 2025",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/CAcsQfS.webp",
+        "startDate": "2025-02-26T13:50:56.000Z",
+        "endDate": "2025-03-05T13:50:56.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5386,
+        "name": "Cordoba Generation Cup 2025",
+        "shortName": "Cordoba Generation Cup 2025",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/w9BoL1f.webp",
+        "startDate": "2025-02-23T07:33:29.000Z",
+        "endDate": "2025-03-30T07:33:29.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5413,
+        "name": "Challengers League 2025 South Asia : Split 1",
+        "shortName": "VCL 25: SA S1",
+        "regionId": 3,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/01/30/image.png",
+        "startDate": "2025-02-23T03:01:11.000Z",
+        "endDate": "2025-03-22T03:01:11.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5428,
+        "name": "Project DACH: Gamescom LAN",
+        "shortName": "Gamescom LAN",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/yvWhx7A.webp",
+        "startDate": "2025-02-22T08:58:17.000Z",
+        "endDate": "2025-02-26T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5426,
+        "name": "Precision Protocol",
+        "shortName": "Precision Protocol",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-02-22T06:55:33.000Z",
+        "endDate": "2025-02-21T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5374,
+        "name": "EPIC.LAN #44",
+        "shortName": "EPIC.LAN #44",
+        "regionId": 1,
+        "imageUrl": "https://i.postimg.cc/xCWgxCfx/image.webp",
+        "startDate": "2025-02-22T06:11:08.000Z",
+        "endDate": "2025-02-24T06:11:08.300Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5377,
+        "name": "FunhaverGG x HyperX Momentum Series: Qualifier 4",
+        "shortName": "FunhaverGG x HyperX : Q4",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/VEPXX7C.webp",
+        "startDate": "2025-02-22T05:20:38.000Z",
+        "endDate": "2025-02-24T05:20:38.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5436,
+        "name": "Nerve Esports Circuit: Season 1 - OFFSEASON/S2 QUALIFIER TOURNAMENT",
+        "shortName": "Nerve Esports Circuit: Season 1",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/CMq0R9mx/image.webp",
+        "startDate": "2025-02-22T04:35:38.000Z",
+        "endDate": "2025-02-23T04:35:38.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5395,
+        "name": "Circuito Tormenta Italy 2025 Winter: T2 #2",
+        "shortName": "CT 2025 Winter: T2 #2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/LcVxM41.webp",
+        "startDate": "2025-02-22T02:49:18.000Z",
+        "endDate": "2025-02-21T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5351,
+        "name": "Champions Tour 2025: Masters Bangkok",
+        "shortName": "VCT 25: Masters Bangkok",
+        "regionId": 7,
+        "imageUrl": "https://i.postimg.cc/DfWyMd5T/image.webp",
+        "startDate": "2025-02-20T04:58:04.000Z",
+        "endDate": "2025-03-02T04:58:04.000Z",
+        "region": {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "AMERICAS",
+          "EMEA",
+          "PACIFIC",
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5368,
+        "name": "Global Esports' Fight Night: Academy",
+        "shortName": "Global Esports' Fight Night: Academy",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/KIRNGZh.webp",
+        "startDate": "2025-02-18T08:43:08.000Z",
+        "endDate": "2025-02-19T08:43:08.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5376,
+        "name": "Finland National League Winter 2025: Division 1",
+        "shortName": "FNL Winter 2025 - D1",
+        "regionId": 1,
+        "imageUrl": "https://i.postimg.cc/1XrzLSY4/image.webp",
+        "startDate": "2025-02-17T04:37:31.000Z",
+        "endDate": "2025-03-05T04:37:31.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5371,
+        "name": "FunhaverGG: Plain Jane 2",
+        "shortName": "FunhaverGG: Plain Jane 2",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/TwpG2bvX/image.webp",
+        "startDate": "2025-02-15T11:56:02.000Z",
+        "endDate": "2025-02-17T11:56:02.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5365,
+        "name": "Game Changers 2025 EMEA: Stage 1",
+        "shortName": "GC 25 EMEA: Stage 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2025-02-15T04:52:12.000Z",
+        "endDate": "2025-03-20T04:52:12.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5430,
+        "name": "The Octuple Cup #5",
+        "shortName": "The Octuple Cup #5",
+        "regionId": 2,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/03/04/image6f46bcdd125c5c43.png",
+        "startDate": "2025-02-14T12:11:03.000Z",
+        "endDate": "2025-02-15T12:11:03.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5362,
+        "name": "The Thrive Cup #2",
+        "shortName": "The Thrive Cup #2",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/fWjbc5c1/Picsart-25-03-01-12-16-35-528.webp",
+        "startDate": "2025-02-14T03:37:22.000Z",
+        "endDate": "2025-02-15T03:37:22.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5383,
+        "name": "Liga Radiante Female Season 2",
+        "shortName": "Liga Radiante FEM S2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/4zxFPPU.webp",
+        "startDate": "2025-02-12T06:38:52.000Z",
+        "endDate": "2025-04-02T06:38:52.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5338,
+        "name": "FunhaverGG x HyperX Momentum Series: Qualifier 3",
+        "shortName": "FunhaverGG x HyperX : Q3",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/VEPXX7C.webp",
+        "startDate": "2025-02-08T14:09:46.000Z",
+        "endDate": "2025-02-10T14:09:46.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5375,
+        "name": "600$ CAD TELUS Arena 2024 Valorant #6",
+        "shortName": "600$ CAD TELUS Arena 2024 Valorant #6",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-02-08T13:33:17.000Z",
+        "endDate": "2025-02-09T13:33:17.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5359,
+        "name": "Rise to Supremacy 4",
+        "shortName": "Rise to Supremacy 4",
+        "regionId": 1,
+        "imageUrl": "https://i.postimg.cc/vBK8rSwf/image.png",
+        "startDate": "2025-02-08T04:10:01.000Z",
+        "endDate": "2025-02-08T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5358,
+        "name": "The Thrive Cup #1",
+        "shortName": "The Thrive Cup #1",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/fWjbc5c1/Picsart-25-03-01-12-16-35-528.webp",
+        "startDate": "2025-02-07T15:20:18.000Z",
+        "endDate": "2025-02-08T15:20:18.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5320,
+        "name": "WDG Challengers League 2025 Korea: Stage 1",
+        "shortName": "VCL 25 : KR S1",
+        "regionId": 3,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/01/30/image.png",
+        "startDate": "2025-02-05T07:13:36.000Z",
+        "endDate": "2025-03-28T07:13:36.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5333,
+        "name": "PROJECT V 2025: Split 1",
+        "shortName": "PV 2025: S1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/BE8RizS.webp",
+        "startDate": "2025-02-05T01:48:50.000Z",
+        "endDate": "2025-02-23T01:48:50.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5363,
+        "name": "VRC Spain Clutch Series | Periodo 1 - Split 2",
+        "shortName": "VRC Spain 25 - Split 2",
+        "regionId": 1,
+        "imageUrl": null,
+        "startDate": "2025-02-04T05:52:07.000Z",
+        "endDate": "2025-02-11T05:52:07.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5328,
+        "name": "VEC x SHOUT Charity Event",
+        "shortName": "VEC x SHOUT",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/Ys3IH9C.webp",
+        "startDate": "2025-02-03T10:04:34.258Z",
+        "endDate": "2025-02-08T10:04:34.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5347,
+        "name": "The Constellations 2025",
+        "shortName": "The Constellations 2025",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2025-02-01T12:54:03.000Z",
+        "endDate": "2025-02-02T12:54:03.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5344,
+        "name": "Game Changers 2025 Latin America North - Stage 1",
+        "shortName": "GC 25: LAN S1",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2025-02-01T08:52:29.000Z",
+        "endDate": "2025-05-02T08:52:29.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5336,
+        "name": "Game Changers 2025 Latin America South - Stage 1",
+        "shortName": "GC 25: LAS S1",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-02-01T03:59:08.000Z",
+        "endDate": "2025-04-30T18:30:00.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5329,
+        "name": "FunhaverGG: Mad Science - Mirror",
+        "shortName": "FunhaverGG: Mad Science - Mirror",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/4mQVoot.webp",
+        "startDate": "2025-02-01T03:24:10.000Z",
+        "endDate": "2025-02-03T03:24:10.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5324,
+        "name": "The Octuple Cup #4",
+        "shortName": "The Octuple Cup #4",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/Bn99yrfm/image.webp",
+        "startDate": "2025-01-31T12:57:54.000Z",
+        "endDate": "2025-02-01T12:57:54.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5303,
+        "name": "Blooming Talents League 2025: Stage 1",
+        "shortName": "BTL 2025: Stage 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/988L0sX.webp",
+        "startDate": "2025-01-30T11:47:35.000Z",
+        "endDate": "2025-03-06T11:47:35.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5316,
+        "name": "Nerve Esports Circuit: Season 1",
+        "shortName": "Nerve Esports Circuit: Season 1",
+        "regionId": 2,
+        "imageUrl": "https://i.postimg.cc/CMq0R9mx/image.webp",
+        "startDate": "2025-01-29T13:51:38.000Z",
+        "endDate": "2025-02-01T13:51:38.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5314,
+        "name": "Circuito Tormenta 2024-2025: Liga Radiante Split 2",
+        "shortName": "Liga Radiante Split 2 2025",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/qnE1ke4.webp",
+        "startDate": "2025-01-29T12:37:16.456Z",
+        "endDate": "2025-03-06T12:37:16.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5341,
+        "name": "Game Changers 2025 Brazil - Kickoff",
+        "shortName": "GC 25: BR Kickoff",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-01-29T04:56:22.000Z",
+        "endDate": "2025-02-16T04:56:22.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5310,
+        "name": "Game Changers 2025 North America: Kickoff",
+        "shortName": "GC 25 NA: Kickoff",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/Sloc9ND.webp",
+        "startDate": "2025-01-27T18:30:00.000Z",
+        "endDate": "2025-02-16T16:07:58.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5294,
+        "name": "Xross Cup 55",
+        "shortName": "Xross 55",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2025-01-25T12:51:09.498Z",
+        "endDate": "2025-01-25T12:51:09.498Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": []
+      },
+      {
+        "id": 5306,
+        "name": "FunhaverGG x HyperX Momentum Series: Qualifier 2",
+        "shortName": "FunhaverGG x HyperX : Q2",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/VEPXX7C.webp",
+        "startDate": "2025-01-24T18:30:00.000Z",
+        "endDate": "2025-01-26T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5297,
+        "name": "Game Changers 2025 EMEA: Kickoff",
+        "shortName": "GC 25 EMEA: Kickoff",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2025-01-23T18:30:00.000Z",
+        "endDate": "2025-02-03T04:49:15.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC",
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5291,
+        "name": "Project Queens 2025: Split 1",
+        "shortName": "Project Queens 2025: S1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/98VikCj.webp",
+        "startDate": "2025-01-21T12:46:48.000Z",
+        "endDate": "2025-02-16T12:46:48.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5263,
+        "name": "Challengers League 2025 DACH: Evolution Split 1",
+        "shortName": "VCL 25: DACH S1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/eInyB4z.webp",
+        "startDate": "2025-01-18T12:24:23.000Z",
+        "endDate": "2025-03-12T12:24:23.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5232,
+        "name": "Champions Tour 2025: Pacific Kickoff",
+        "shortName": "VCT 25: PAC Kickoff",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/2pJERmN.webp",
+        "startDate": "2025-01-18T06:09:19.000Z",
+        "endDate": "2025-02-09T06:09:19.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5260,
+        "name": "Challengers League 2025 Türkiye Birlik: Kickoff Split",
+        "shortName": "VCL 25 Türkiye: Kickoff Split",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/UiVojmN.webp",
+        "startDate": "2025-01-18T02:57:41.000Z",
+        "endDate": "2025-02-17T02:57:41.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5228,
+        "name": "Champions Tour 2025: Americas Kickoff",
+        "shortName": "VCT 25: AMER Kickoff",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/QPqjxTo.webp",
+        "startDate": "2025-01-17T05:50:50.000Z",
+        "endDate": "2025-02-09T05:50:50.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5224,
+        "name": "Gamers Club Challengers League 2025 Brazil: Split 1",
+        "shortName": "VCL 25 BR: Split 1",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/RPnU96I.webp",
+        "startDate": "2025-01-17T05:31:39.000Z",
+        "endDate": "2025-05-08T05:31:39.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5266,
+        "name": "Challengers League 2025 Japan: Split 1",
+        "shortName": "VCL 25: JP S1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/FLYiZuk.webp",
+        "startDate": "2025-01-16T03:59:05.488Z",
+        "endDate": "2025-02-18T03:59:05.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5230,
+        "name": "Champions Tour 2025: EMEA Kickoff",
+        "shortName": "VCT 25: EMEA Kickoff",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/yS1hJlK.webp",
+        "startDate": "2025-01-15T05:58:33.000Z",
+        "endDate": "2025-02-09T05:58:33.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5279,
+        "name": "Challengers League 2025 LATAM North ACE: Stage 1",
+        "shortName": "VCL 25 LAN: Stage 1",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/6hyTiSD.webp",
+        "startDate": "2025-01-14T09:07:44.000Z",
+        "endDate": "2025-04-15T09:07:44.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5273,
+        "name": "Challengers League 2025 LATAM South ACE: Stage 1",
+        "shortName": "VCL 25 LAS: Stage 1",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/HttxcSr.webp",
+        "startDate": "2025-01-14T05:26:49.000Z",
+        "endDate": "2025-04-14T18:30:00.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5221,
+        "name": "Challengers League 2025 North America ACE: Stage 1",
+        "shortName": "VCL 25 NA: Stage 1",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/9t8x0yW.webp",
+        "startDate": "2025-01-14T04:56:14.000Z",
+        "endDate": "2025-03-27T18:30:00.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5248,
+        "name": "Challengers League 2025 Spain Rising: Split 1",
+        "shortName": "VCL 25 ES: Split 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/WKXvQi8.webp",
+        "startDate": "2025-01-12T03:15:08.000Z",
+        "endDate": "2025-02-16T03:15:08.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5233,
+        "name": "Champions Tour 2025: China Kickoff",
+        "shortName": "VCT 25: CN Kickoff",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/bwJV78X.webp",
+        "startDate": "2025-01-11T06:12:44.000Z",
+        "endDate": "2025-02-07T06:12:44.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5256,
+        "name": "Challengers League 2025 France: Revolution Split 1",
+        "shortName": "VCL 25 FR: Revolution S1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/M37oPnh.webp",
+        "startDate": "2025-01-11T01:50:00.000Z",
+        "endDate": "2025-03-17T01:50:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5405,
+        "name": "Challengers League 2025 NORTHEAST: Split 1",
+        "shortName": "VCL 25 N//E: Split 1",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/31We3Zg.webp",
+        "startDate": "2025-01-09T18:30:00.000Z",
+        "endDate": "2025-02-15T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5238,
+        "name": "APAC Predator League 2025",
+        "shortName": "APAC Predator League 2025",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/FLREEpL.webp",
+        "startDate": "2025-01-09T10:00:45.000Z",
+        "endDate": "2025-01-11T10:00:45.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT",
+          "VCL",
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5281,
+        "name": "Challengers League 2025 Southeast Asia: Split 1",
+        "shortName": "VCL SEA: Split 1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/FLYiZuk.webp",
+        "startDate": "2025-01-07T09:09:55.000Z",
+        "endDate": "2025-02-17T09:09:55.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5244,
+        "name": "BREAKPOINT 2025",
+        "shortName": "BREAKPOINT 2025",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/vWB14kq.webp",
+        "startDate": "2025-01-02T07:01:13.000Z",
+        "endDate": "2025-01-05T07:01:13.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5250,
+        "name": "Spotlight Series Pacific 2024 - Playoff",
+        "shortName": "Spotlight Series Pacific 2024 - PO",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2024-12-22T12:42:07.000Z",
+        "endDate": "2024-12-22T12:42:07.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC",
+          "VCT",
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5251,
+        "name": "TESFED Turkish Cup 2024",
+        "shortName": "TESFED Turkish Cup 2024",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/jSy5l5i.webp",
+        "startDate": "2024-12-22T04:57:32.000Z",
+        "endDate": "2024-12-26T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3",
+          "GC",
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5216,
+        "name": "Devil Clutch Cup",
+        "shortName": "Devil Clutch Cup",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2024-12-21T11:24:28.000Z",
+        "endDate": "2024-12-24T11:24:28.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5218,
+        "name": "Saudi eLeague Championship 2024",
+        "shortName": "Saudi eLeague 2024",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/JBJVais.webp",
+        "startDate": "2024-12-20T13:41:06.000Z",
+        "endDate": "2024-12-21T18:30:00.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5214,
+        "name": "Spotlight Series Pacific 2024",
+        "shortName": "Spotlight Series Pacific 2024",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/NsSvhjY.webp",
+        "startDate": "2024-12-19T10:03:43.000Z",
+        "endDate": "2024-12-22T10:03:43.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC",
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5252,
+        "name": "Spotlight Series Pacific 2024",
+        "shortName": "Spotlight Series Pacific 2024",
+        "regionId": 3,
+        "imageUrl": "https://cdn.allthepics.net/images/2025/01/09/image.png",
+        "startDate": "2024-12-19T04:43:42.000Z",
+        "endDate": "2024-12-22T04:43:42.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL",
+          "VCT",
+          "GC"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5211,
+        "name": "Riot Games ONE 2024",
+        "shortName": "Riot Games ONE 24",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/bW8sGM8.webp",
+        "startDate": "2024-12-14T04:34:26.911Z",
+        "endDate": "2024-12-15T04:34:26.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5213,
+        "name": "HereticsXP #2",
+        "shortName": "HereticsXP #2",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/w3yFmi3.webp",
+        "startDate": "2024-12-13T05:59:38.000Z",
+        "endDate": "2024-12-12T18:30:00.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5201,
+        "name": "Valorant Underground: LATAM North",
+        "shortName": "Valorant Underground: LATAM North",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/qxE8vPZ.webp",
+        "startDate": "2024-12-11T10:25:35.000Z",
+        "endDate": "2024-12-13T18:30:00.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3",
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5208,
+        "name": "SOOP Valorant League",
+        "shortName": "SOOP Valorant League",
+        "regionId": 7,
+        "imageUrl": "https://i.imgur.com/095Lpnx.webp",
+        "startDate": "2024-12-10T03:25:24.016Z",
+        "endDate": "2024-12-15T03:25:24.000Z",
+        "region": {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT",
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS",
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5189,
+        "name": "Tixinha Invitational",
+        "shortName": "Tixinha Invitational",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/T1Ts9In.webp",
+        "startDate": "2024-12-09T11:33:06.000Z",
+        "endDate": "2024-12-16T11:33:06.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5205,
+        "name": "Wingwoman Series",
+        "shortName": "Wingwoman Series",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/sd1aSP1.webp",
+        "startDate": "2024-12-06T06:20:53.000Z",
+        "endDate": "2024-12-16T06:20:53.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5194,
+        "name": "Spotlight Series Americas 2024",
+        "shortName": "Spotlight Series Americas 2024",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/NsSvhjY.webp",
+        "startDate": "2024-12-06T05:24:15.000Z",
+        "endDate": "2024-12-09T05:24:15.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL",
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5191,
+        "name": "Saudi Womens eLeague 2024: Championship",
+        "shortName": "Saudi Womens eLeague 2024: Championship",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/JBJVais.png",
+        "startDate": "2024-12-05T01:10:48.000Z",
+        "endDate": "2024-12-08T01:10:48.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5197,
+        "name": "Valorant Underground: LATAM South",
+        "shortName": "Valorant Underground: LATAM South",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/FetNnuQ.webp",
+        "startDate": "2024-12-04T04:09:54.000Z",
+        "endDate": "2024-12-08T18:30:00.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5181,
+        "name": "One Game Showdown 2024",
+        "shortName": "One Game Showdown 2024",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/xPeqNNY.webp",
+        "startDate": "2024-11-29T06:21:31.000Z",
+        "endDate": "2024-12-08T06:21:31.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL",
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5167,
+        "name": "Crazy Raccoon Cup #9",
+        "shortName": "CR cup #9",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2024-11-25T12:38:25.000Z",
+        "endDate": "2024-11-26T12:38:25.229Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5164,
+        "name": "Red Bull Home Ground #5: Swiss Stage",
+        "shortName": "RBHG #5: Swiss Stage",
+        "regionId": 1,
+        "imageUrl": null,
+        "startDate": "2024-11-21T04:15:38.000Z",
+        "endDate": "2024-11-23T04:15:38.895Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5169,
+        "name": "Challengers League 2024 Latin America North ACE: Split 3",
+        "shortName": "VCL 24 LAN ACE: Split 3",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/d4dU61L.webp",
+        "startDate": "2024-11-20T01:39:10.000Z",
+        "endDate": "2024-12-02T01:39:10.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5162,
+        "name": "バロ混合ガチマッチ powered by RIOT GAMES ONE",
+        "shortName": "バロ混合ガチマッチ",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2024-11-14T10:09:58.406Z",
+        "endDate": "2024-11-14T10:09:58.406Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5179,
+        "name": "Game Changers 2024 Championship: Berlin",
+        "shortName": "GC 24 Championship: Berlin",
+        "regionId": 7,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2024-11-08T14:30:36.000Z",
+        "endDate": "2024-11-16T18:30:00.000Z",
+        "region": {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS",
+          "EMEA",
+          "PACIFIC",
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5159,
+        "name": "Game Changers 2024 Championship: Berlin",
+        "shortName": "GC : Berlin",
+        "regionId": 7,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2024-11-08T12:54:21.000Z",
+        "endDate": "2024-11-18T12:54:21.000Z",
+        "region": {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA",
+          "PACIFIC",
+          "CHINA",
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5185,
+        "name": "Challengers League 2024 Brazil: Split 3",
+        "shortName": "VCL 24 Brazil: Split 3",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/FLYiZuk.webp",
+        "startDate": "2024-11-07T20:54:18.000Z",
+        "endDate": "2024-12-09T20:54:18.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5175,
+        "name": "Challengers League 2024 North America: Split 3",
+        "shortName": "VCL 24 NA: Split 3",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/Ur2U9tp.webp",
+        "startDate": "2024-11-06T06:15:56.000Z",
+        "endDate": "2024-12-02T06:15:56.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5172,
+        "name": "Challengers League 2024 Latin America South ACE: Split 3",
+        "shortName": "VCL 24 LAS ACE: Split 3",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/HWSDaX1.webp",
+        "startDate": "2024-10-27T04:02:38.000Z",
+        "endDate": "2024-11-08T04:02:38.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5148,
+        "name": "Circuito Tormenta 2024-25 Split 1: ESPORTS SERIES MADRID ",
+        "shortName": "ESPORTS SERIES MADRID ",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/GMAx8aj.webp",
+        "startDate": "2024-10-26T02:17:04.000Z",
+        "endDate": "2024-11-16T03:17:04.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5050,
+        "name": "Red Bull Home Ground #5 - APAC Play-In",
+        "shortName": "APAC Play-In",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/Zfr0xKB.png",
+        "startDate": "2024-10-19T13:29:22.000Z",
+        "endDate": "2024-10-20T13:29:22.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT",
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5154,
+        "name": "Saudi eLeague 2024: Major 4",
+        "shortName": "SWEL 24: Major 4",
+        "regionId": 5,
+        "imageUrl": "https://i.imgur.com/JBJVais.png",
+        "startDate": "2024-10-16T13:59:31.000Z",
+        "endDate": "2024-11-02T13:59:31.000Z",
+        "region": {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5132,
+        "name": "NIJISANJI Extreme Match",
+        "shortName": "にじEX",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2024-10-13T12:43:40.000Z",
+        "endDate": "2024-10-14T12:43:40.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5144,
+        "name": "Liga CB - Serie A",
+        "shortName": "Liga CB - Serie A",
+        "regionId": 4,
+        "imageUrl": "https://owcdn.net/img/6703d3e78b24f.png",
+        "startDate": "2024-10-11T23:42:07.000Z",
+        "endDate": "2024-10-21T23:42:07.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5128,
+        "name": "YFP x Alliance Lockdown Arena",
+        "shortName": "YFP x Alliance Lockdown Arena",
+        "regionId": 2,
+        "imageUrl": "https://i.allthepics.net/2024/10/09/image.png",
+        "startDate": "2024-10-09T04:25:57.043Z",
+        "endDate": "2024-10-09T04:25:57.043Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5136,
+        "name": "Clutch Series | Period 1 - Split 1",
+        "shortName": "Clutch Series",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/LcVxM41.webp",
+        "startDate": "2024-10-07T19:20:47.000Z",
+        "endDate": "2024-11-03T20:20:47.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5122,
+        "name": "Game Changers 2024 North America: Series 3 - Closed Qualifier 3",
+        "shortName": "Closed Qualifier 3",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2024-10-05T01:23:44.000Z",
+        "endDate": "2024-10-07T01:23:44.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC",
+          "VCT"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5123,
+        "name": "TORMENTA SEASON BEGINS",
+        "shortName": "TORMENTA SEASON BEGINS",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/LcVxM41.webp",
+        "startDate": "2024-10-04T15:32:30.742Z",
+        "endDate": "2024-10-06T15:32:30.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5127,
+        "name": "RedCat Taça das Minas #11 - GC Academy",
+        "shortName": "RedCat Taça das Minas 11",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/kGy65Ap.webp",
+        "startDate": "2024-10-04T01:47:43.000Z",
+        "endDate": "2024-10-07T01:47:43.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5115,
+        "name": "Game Changers 2024 Pacific",
+        "shortName": "Game Changers 2024 Pacific",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2024-10-01T05:36:38.000Z",
+        "endDate": "2024-10-07T05:36:38.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5107,
+        "name": "Challengers Spain Rising 2024: Consolidation",
+        "shortName": "Consolidation",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/cmOFeOt.webp",
+        "startDate": "2024-09-25T15:03:09.330Z",
+        "endDate": "2024-10-20T15:03:09.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5098,
+        "name": "Red Bull Home Ground #5 - Japanese Qualifier Phase 3",
+        "shortName": "RBHG #5: JP - P3",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/Zfr0xKB.png",
+        "startDate": "2024-09-25T13:25:24.000Z",
+        "endDate": "2024-10-09T13:25:24.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3",
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5103,
+        "name": "The Funhaver Invitational: Fight or Flight 2",
+        "shortName": "The Funhaver Invitational: Fight or Flight 2",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2024-09-20T14:45:25.000Z",
+        "endDate": "2024-09-22T14:45:25.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5093,
+        "name": "Champions Tour 2024 Pacific: Ascension",
+        "shortName": "Pacific: Ascension",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/6S3xBGG.webp",
+        "startDate": "2024-09-20T10:21:04.000Z",
+        "endDate": "2024-09-29T10:21:04.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5119,
+        "name": "Finland National League 2024 - Division 1",
+        "shortName": "Finland National League",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/rKd7ztt.webp",
+        "startDate": "2024-09-17T20:33:48.000Z",
+        "endDate": "2024-10-26T20:33:48.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5096,
+        "name": "NRG Neon Dream Invitational 2024 - Playoffs",
+        "shortName": "Playoffs",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2024-09-17T00:51:15.000Z",
+        "endDate": "2024-09-18T00:51:15.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCT",
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5084,
+        "name": "ESPORTS SERIES MADRID - SPLIT 2",
+        "shortName": "ESPORTS SERIES MADRID",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/GMAx8aj.webp",
+        "startDate": "2024-09-15T00:28:40.000Z",
+        "endDate": "2024-10-06T00:28:40.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5087,
+        "name": "VLRPT - Ultimate Way - 1ª Edição",
+        "shortName": "Ultimate Way",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/brSkIk5.png",
+        "startDate": "2024-09-14T14:01:29.000Z",
+        "endDate": "2024-12-14T15:01:29.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5099,
+        "name": "The Funhaver Invitational: Fight or Flight 1",
+        "shortName": "The Funhaver Invitational: Fight or Flight 1",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2024-09-13T14:40:14.000Z",
+        "endDate": "2024-09-15T14:40:14.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5113,
+        "name": "Challengers League 2024 South Asia: Split 3",
+        "shortName": "VCL 24 South Asia: Split 3",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/FLYiZuk.webp",
+        "startDate": "2024-09-12T04:22:49.000Z",
+        "endDate": "2024-10-12T04:22:49.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL",
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5076,
+        "name": "Champions Tour 2024 China: Ascension",
+        "shortName": "China: Ascension",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/6S3xBGG.webp",
+        "startDate": "2024-09-11T04:52:20.000Z",
+        "endDate": "2024-09-21T04:52:20.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "CHINA"
+        ]
+      },
+      {
+        "id": 5079,
+        "name": "Project Queens 2024: Split 3",
+        "shortName": "Project Queens 24: S3",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/98VikCj.webp",
+        "startDate": "2024-09-10T02:18:36.000Z",
+        "endDate": "2024-09-30T02:18:36.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5048,
+        "name": "Champions Tour 2024 Americas: Ascension",
+        "shortName": "Americas: Ascension",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/6S3xBGG.webp",
+        "startDate": "2024-09-09T06:34:40.000Z",
+        "endDate": "2024-09-22T06:34:40.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5070,
+        "name": "Valiant Esports League",
+        "shortName": "Valiant Esports League",
+        "regionId": 1,
+        "imageUrl": "https://i.allthepics.net/2024/09/10/image.png",
+        "startDate": "2024-09-07T02:14:21.000Z",
+        "endDate": "2024-10-31T02:14:21.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5110,
+        "name": "EVIL INVITATIONAL: A VALORANT Back to School BASH",
+        "shortName": "EVIL INVITATIONAL: A VALORANT Back to School BASH",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/dd08NzX.png",
+        "startDate": "2024-09-07T02:12:27.000Z",
+        "endDate": "2024-09-08T02:12:27.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": []
+      },
+      {
+        "id": 5065,
+        "name": "Game Changers 2024 North America: Series 3 - Closed Qualifier 2",
+        "shortName": "Closed Qualifier 2",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2024-09-06T20:37:21.000Z",
+        "endDate": "2024-09-08T20:37:21.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5066,
+        "name": "Game Changers 2024 Brazil - Series 3",
+        "shortName": "GC 24 BR - Series 3",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2024-09-06T15:13:15.000Z",
+        "endDate": "2024-10-13T15:13:15.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5074,
+        "name": "Game Changers 2024 EMEA: Stage 3",
+        "shortName": "GC 24 EMEA: Stage 3",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2024-09-06T15:00:55.000Z",
+        "endDate": "2024-10-06T15:00:55.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5067,
+        "name": "Game Changers 2024 Brazil - Series 3 - Qualifier 1",
+        "shortName": "Qualifier 1",
+        "regionId": 4,
+        "imageUrl": "https://i.imgur.com/W8pjTzy.webp",
+        "startDate": "2024-09-05T15:21:15.000Z",
+        "endDate": "2024-09-08T15:21:15.000Z",
+        "region": {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "GC"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5092,
+        "name": "Red Bull Home Ground #5 - Japanese Qualifier Phase 2",
+        "shortName": "RBHG #5: JP - P2",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/Zfr0xKB.png",
+        "startDate": "2024-09-04T14:48:45.000Z",
+        "endDate": "2024-09-08T14:48:45.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5082,
+        "name": "Premier E9A2 Invite Regular Stage: EMEA",
+        "shortName": "Premier E9A2 EMEA",
+        "regionId": 1,
+        "imageUrl": "https://i.imgur.com/Nb7lifm.png",
+        "startDate": "2024-09-04T14:28:56.000Z",
+        "endDate": "2024-10-20T14:28:56.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5059,
+        "name": "Red Bull Home Ground #5",
+        "shortName": "Red Bull Home Ground #5",
+        "regionId": 7,
+        "imageUrl": "https://i.allthepics.net/2024/09/04/imagec9b623158803ffb1.png",
+        "startDate": "2024-09-02T03:40:10.000Z",
+        "endDate": "2024-11-24T03:40:10.000Z",
+        "region": {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC",
+          "EMEA",
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5052,
+        "name": "YOKOSUKA e-Sports CUP 2024",
+        "shortName": "Yokosuka 2024",
+        "regionId": 3,
+        "imageUrl": null,
+        "startDate": "2024-09-01T14:16:41.000Z",
+        "endDate": "2024-09-01T14:16:41.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "UNI"
+        ],
+        "vctRegions": []
+      },
+      {
+        "id": 5045,
+        "name": "EVC x Crunch \"The Surge #1\"",
+        "shortName": "EVC The Surge",
+        "regionId": 1,
+        "imageUrl": null,
+        "startDate": "2024-08-31T10:30:45.634Z",
+        "endDate": "2024-09-01T10:30:45.000Z",
+        "region": {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "EMEA"
+        ]
+      },
+      {
+        "id": 5062,
+        "name": "Valorant Rival Series #8",
+        "shortName": "Valorant Rival Series #8",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2024-08-31T06:21:41.000Z",
+        "endDate": "2024-09-01T06:21:41.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5042,
+        "name": "Eternal X Harmony Showdown",
+        "shortName": "Eternal X Harmony Showdown",
+        "regionId": 2,
+        "imageUrl": null,
+        "startDate": "2024-08-24T04:24:20.000Z",
+        "endDate": "2024-08-25T04:24:20.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5058,
+        "name": "ONE Esports VALORANT Community Tournaments 2024 - North America #36",
+        "shortName": "ONE Esports VALORANT Community Tournaments 2024 - North America #36",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/7oRFuHB.webp",
+        "startDate": "2024-08-24T01:46:48.000Z",
+        "endDate": "2024-08-25T01:46:48.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5054,
+        "name": "The Funhaver Invitational - Summertime Slugfest 6",
+        "shortName": "The Funhaver Invitational - Summertime Slugfest 6",
+        "regionId": 2,
+        "imageUrl": "https://i.imgur.com/fveJq3S.webp",
+        "startDate": "2024-08-24T01:39:32.000Z",
+        "endDate": "2024-08-26T01:39:32.000Z",
+        "region": {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "AMERICAS"
+        ]
+      },
+      {
+        "id": 5051,
+        "name": "Red Bull Home Ground #5 - Japanese Qualifier Phase 1",
+        "shortName": "RBHG #5: JP - P1",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/Zfr0xKB.png",
+        "startDate": "2024-08-22T13:33:37.000Z",
+        "endDate": "2024-08-31T13:33:37.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "T3"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      },
+      {
+        "id": 5030,
+        "name": "Challengers League 2024 Japan: Split 3",
+        "shortName": "VCL 24 JP: Split 3",
+        "regionId": 3,
+        "imageUrl": "https://i.imgur.com/FLYiZuk.webp",
+        "startDate": "2024-08-19T11:27:51.000Z",
+        "endDate": "2024-12-31T11:27:51.000Z",
+        "region": {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        "importance": 0,
+        "divisions": [
+          "VCL"
+        ],
+        "vctRegions": [
+          "PACIFIC"
+        ]
+      }
+    ],
+    "_nextI18Next": {
+      "initialI18nStore": {
+        "en": {
+          "common": {
+            "meta": {
+              "title": "VALORANT Stats & Analytics | Schedules | Matches | News | RIB.GG",
+              "description": "RIB.GG - #1 destination for all things VALORANT Stats & Analytics | Schedules & Events | Matches | News | Highlights & and much more"
+            },
+            "items": {
+              "forums": "Forums",
+              "matches": "Matches",
+              "events": "Events",
+              "rankings": "Rankings",
+              "analytics": "Analytics",
+              "pricing": "Pricing",
+              "freeagents": "Free Agents"
+            },
+            "cards": {
+              "upcomingMatches": "Upcoming Matches",
+              "latestResults": "Latest Results",
+              "featuredEvents": "Featured Events",
+              "ongoingEvents": "Ongoing Events",
+              "upcomingEvents": "Upcoming Events",
+              "liveMatches": "Live Matches",
+              "recentResults": "Recent Results",
+              "noResults": "No results found. Try adding more filters."
+            },
+            "tabs": {
+              "overview": "Overview",
+              "schedule": "Schedule",
+              "matches": "Matches",
+              "matchHistory": "Match History",
+              "analytics": "Analytics"
+            },
+            "regions": {
+              "na": "NA",
+              "eu": "EU",
+              "intl": "INTL",
+              "ap": "AP",
+              "oc": "OC",
+              "mena": "MENA",
+              "latam": "LATAM",
+              "global": "Global",
+              "naLong": "North America",
+              "euLong": "Europe",
+              "intlLong": "International",
+              "apLong": "Asia-Pacific",
+              "latamLong": "Latin America",
+              "ocLong": "Oceana",
+              "menaLong": "MENA",
+              "AMERICAS": "AMERICAS",
+              "PACIFIC": "PACIFIC",
+              "EMEA": "EMEA",
+              "CHINA": "CHINA"
+            },
+            "quickFilter": "Quick filter matches & events",
+            "divisions": {
+              "VCT": "VCT",
+              "VCL": "VCL",
+              "GC": "GC",
+              "T3": "T3",
+              "UNI": "UNI",
+              "INTERNATIONAL": "INTERNATIONAL",
+              "INTL": "INTL"
+            },
+            "overridesTooltip": "You can permanently change your region / division preferences on your profile page",
+            "regionOverrides": "Default region & division settings",
+            "regionOverridesDescription": "These settings automatically filter matches and events based on your selected regions. You can temporarily adjust these filters on the home, matches, and event pages. To permanently change your regional preferences, modify them here.",
+            "search": "Search RIB.GG",
+            "yes": "Yes",
+            "no": "No",
+            "login": "Log In",
+            "logout": "Log Out",
+            "pleaseLogIn": "Please log in.",
+            "today": "TODAY",
+            "yesterday": "YESTERDAY",
+            "moreArticles": "More Articles",
+            "relatedNews": "Related News",
+            "stage": "Stage",
+            "all": "All",
+            "totalShortyKills": "Total Shorty Kills",
+            "topPlayers": "Top Players",
+            "whatIsThis": "What is this?",
+            "clickToSeeSpoiler": "Click To See Spoiler",
+            "spoilers": "Spoilers",
+            "on": "ON",
+            "hidden": "HIDDEN",
+            "recentTxns": "Recent Transfers"
+          },
+          "event": {
+            "meta": {
+              "title": "{{eventName}}",
+              "description": "{{eventName}} results, stats, schedule, teams, standings, and top performers"
+            },
+            "eventsPageMeta": {
+              "title": "Competitive Valorant Events and Tournaments | rib.gg",
+              "ogImageText": "VALORANT Event Schedule",
+              "h1": "All VALORANT Events"
+            },
+            "noMatchesPlayed": "No matches have been played yet. Check back soon!",
+            "teams": "Teams",
+            "upcomingMatches": "Upcoming Matches",
+            "latestResults": "Latest Results",
+            "tabs": {
+              "bracket": "Bracket",
+              "matches": "Matches",
+              "schedule": "Schedule",
+              "overview": "Overview",
+              "pickems": "Pick'ems",
+              "yourPickemGroups": "Your Pickem Groups",
+              "analytics": "Analytics",
+              "stats": "Stats"
+            },
+            "eventGroups": {
+              "featuredEvents": "Featured Events",
+              "ongoingEvents": "Ongoing & Upcoming Events",
+              "completedEvents": "Completed Events"
+            },
+            "analyticsTabs": {
+              "overview": "Overview",
+              "players": "Players",
+              "agents": "Agents"
+            },
+            "teamAndPlayers": {
+              "participatingTeams": "Participating Teams",
+              "toggleRosters": "toggle rosters"
+            }
+          }
+        }
+      },
+      "initialLocale": "en",
+      "ns": [
+        "common",
+        "event"
+      ],
+      "userConfig": {
+        "debug": false,
+        "i18n": {
+          "defaultLocale": "en",
+          "locales": [
+            "en",
+            "ja",
+            "pt-BR",
+            "tr",
+            "es",
+            "pt",
+            "fr",
+            "ja",
+            "ko",
+            "it",
+            "de",
+            "zh",
+            "pl"
+          ]
+        },
+        "localePath": "/var/task/public/locales",
+        "reloadOnPrerender": false,
+        "default": {
+          "debug": false,
+          "i18n": {
+            "defaultLocale": "en",
+            "locales": [
+              "en",
+              "ja",
+              "pt-BR",
+              "tr",
+              "es",
+              "pt",
+              "fr",
+              "ja",
+              "ko",
+              "it",
+              "de",
+              "zh",
+              "pl"
+            ]
+          },
+          "localePath": "/var/task/public/locales",
+          "reloadOnPrerender": false
+        }
+      }
+    },
+    "content": {
+      "regions": [
+        {
+          "id": 2,
+          "name": "North America",
+          "code": "na",
+          "slug": "north-america"
+        },
+        {
+          "id": 1,
+          "name": "Europe",
+          "code": "eu",
+          "slug": "europe"
+        },
+        {
+          "id": 3,
+          "name": "Asia-Pacific",
+          "code": "ap",
+          "slug": "asia-pacific"
+        },
+        {
+          "id": 4,
+          "name": "Latin America",
+          "code": "latam",
+          "slug": "latin-america"
+        },
+        {
+          "id": 5,
+          "name": "MENA",
+          "code": "mena",
+          "slug": "mena"
+        },
+        {
+          "id": 6,
+          "name": "Oceana",
+          "code": "oc",
+          "slug": "oceana"
+        },
+        {
+          "id": 7,
+          "name": "International",
+          "code": "intl",
+          "slug": "international"
+        }
+      ],
+      "countries": [
+        {
+          "id": 1,
+          "name": "afghanistan",
+          "niceName": "Afghanistan",
+          "iso": "AF",
+          "iso3": "AFG",
+          "numericCode": 4
+        },
+        {
+          "id": 242,
+          "name": "aland islands",
+          "niceName": "Aland Islands",
+          "iso": "AX",
+          "iso3": "ALA",
+          "numericCode": 248
+        },
+        {
+          "id": 2,
+          "name": "albania",
+          "niceName": "Albania",
+          "iso": "AL",
+          "iso3": "ALB",
+          "numericCode": 8
+        },
+        {
+          "id": 3,
+          "name": "algeria",
+          "niceName": "Algeria",
+          "iso": "DZ",
+          "iso3": "DZA",
+          "numericCode": 12
+        },
+        {
+          "id": 4,
+          "name": "american samoa",
+          "niceName": "American Samoa",
+          "iso": "AS",
+          "iso3": "ASM",
+          "numericCode": 16
+        },
+        {
+          "id": 5,
+          "name": "andorra",
+          "niceName": "Andorra",
+          "iso": "AD",
+          "iso3": "AND",
+          "numericCode": 20
+        },
+        {
+          "id": 6,
+          "name": "angola",
+          "niceName": "Angola",
+          "iso": "AO",
+          "iso3": "AGO",
+          "numericCode": 24
+        },
+        {
+          "id": 7,
+          "name": "anguilla",
+          "niceName": "Anguilla",
+          "iso": "AI",
+          "iso3": "AIA",
+          "numericCode": 660
+        },
+        {
+          "id": 8,
+          "name": "antarctica",
+          "niceName": "Antarctica",
+          "iso": "AQ",
+          "iso3": "ATA",
+          "numericCode": 10
+        },
+        {
+          "id": 9,
+          "name": "antigua and barbuda",
+          "niceName": "Antigua and Barbuda",
+          "iso": "AG",
+          "iso3": "ATG",
+          "numericCode": 28
+        },
+        {
+          "id": 10,
+          "name": "argentina",
+          "niceName": "Argentina",
+          "iso": "AR",
+          "iso3": "ARG",
+          "numericCode": 32
+        },
+        {
+          "id": 11,
+          "name": "armenia",
+          "niceName": "Armenia",
+          "iso": "AM",
+          "iso3": "ARM",
+          "numericCode": 51
+        },
+        {
+          "id": 12,
+          "name": "aruba",
+          "niceName": "Aruba",
+          "iso": "AW",
+          "iso3": "ABW",
+          "numericCode": 533
+        },
+        {
+          "id": 13,
+          "name": "australia",
+          "niceName": "Australia",
+          "iso": "AU",
+          "iso3": "AUS",
+          "numericCode": 36
+        },
+        {
+          "id": 14,
+          "name": "austria",
+          "niceName": "Austria",
+          "iso": "AT",
+          "iso3": "AUT",
+          "numericCode": 40
+        },
+        {
+          "id": 15,
+          "name": "azerbaijan",
+          "niceName": "Azerbaijan",
+          "iso": "AZ",
+          "iso3": "AZE",
+          "numericCode": 31
+        },
+        {
+          "id": 16,
+          "name": "bahamas",
+          "niceName": "Bahamas",
+          "iso": "BS",
+          "iso3": "BHS",
+          "numericCode": 44
+        },
+        {
+          "id": 17,
+          "name": "bahrain",
+          "niceName": "Bahrain",
+          "iso": "BH",
+          "iso3": "BHR",
+          "numericCode": 48
+        },
+        {
+          "id": 18,
+          "name": "bangladesh",
+          "niceName": "Bangladesh",
+          "iso": "BD",
+          "iso3": "BGD",
+          "numericCode": 50
+        },
+        {
+          "id": 19,
+          "name": "barbados",
+          "niceName": "Barbados",
+          "iso": "BB",
+          "iso3": "BRB",
+          "numericCode": 52
+        },
+        {
+          "id": 20,
+          "name": "belarus",
+          "niceName": "Belarus",
+          "iso": "BY",
+          "iso3": "BLR",
+          "numericCode": 112
+        },
+        {
+          "id": 21,
+          "name": "belgium",
+          "niceName": "Belgium",
+          "iso": "BE",
+          "iso3": "BEL",
+          "numericCode": 56
+        },
+        {
+          "id": 22,
+          "name": "belize",
+          "niceName": "Belize",
+          "iso": "BZ",
+          "iso3": "BLZ",
+          "numericCode": 84
+        },
+        {
+          "id": 23,
+          "name": "benin",
+          "niceName": "Benin",
+          "iso": "BJ",
+          "iso3": "BEN",
+          "numericCode": 204
+        },
+        {
+          "id": 24,
+          "name": "bermuda",
+          "niceName": "Bermuda",
+          "iso": "BM",
+          "iso3": "BMU",
+          "numericCode": 60
+        },
+        {
+          "id": 25,
+          "name": "bhutan",
+          "niceName": "Bhutan",
+          "iso": "BT",
+          "iso3": "BTN",
+          "numericCode": 64
+        },
+        {
+          "id": 26,
+          "name": "bolivia",
+          "niceName": "Bolivia",
+          "iso": "BO",
+          "iso3": "BOL",
+          "numericCode": 68
+        },
+        {
+          "id": 243,
+          "name": "bonaire, sint eustatius and saba",
+          "niceName": "Bonaire, Sint Eustatius and Saba",
+          "iso": "BQ",
+          "iso3": "BES",
+          "numericCode": 535
+        },
+        {
+          "id": 27,
+          "name": "bosnia and herzegovina",
+          "niceName": "Bosnia and Herzegovina",
+          "iso": "BA",
+          "iso3": "BIH",
+          "numericCode": 70
+        },
+        {
+          "id": 28,
+          "name": "botswana",
+          "niceName": "Botswana",
+          "iso": "BW",
+          "iso3": "BWA",
+          "numericCode": 72
+        },
+        {
+          "id": 29,
+          "name": "bouvet island",
+          "niceName": "Bouvet Island",
+          "iso": "BV",
+          "iso3": "BVT",
+          "numericCode": 74
+        },
+        {
+          "id": 30,
+          "name": "brazil",
+          "niceName": "Brazil",
+          "iso": "BR",
+          "iso3": "BRA",
+          "numericCode": 76
+        },
+        {
+          "id": 31,
+          "name": "british indian ocean territory",
+          "niceName": "British Indian Ocean Territory",
+          "iso": "IO",
+          "iso3": "IOT",
+          "numericCode": 86
+        },
+        {
+          "id": 32,
+          "name": "brunei darussalam",
+          "niceName": "Brunei Darussalam",
+          "iso": "BN",
+          "iso3": "BRN",
+          "numericCode": 96
+        },
+        {
+          "id": 33,
+          "name": "bulgaria",
+          "niceName": "Bulgaria",
+          "iso": "BG",
+          "iso3": "BGR",
+          "numericCode": 100
+        },
+        {
+          "id": 34,
+          "name": "burkina faso",
+          "niceName": "Burkina Faso",
+          "iso": "BF",
+          "iso3": "BFA",
+          "numericCode": 854
+        },
+        {
+          "id": 35,
+          "name": "burundi",
+          "niceName": "Burundi",
+          "iso": "BI",
+          "iso3": "BDI",
+          "numericCode": 108
+        },
+        {
+          "id": 36,
+          "name": "cambodia",
+          "niceName": "Cambodia",
+          "iso": "KH",
+          "iso3": "KHM",
+          "numericCode": 116
+        },
+        {
+          "id": 37,
+          "name": "cameroon",
+          "niceName": "Cameroon",
+          "iso": "CM",
+          "iso3": "CMR",
+          "numericCode": 120
+        },
+        {
+          "id": 38,
+          "name": "canada",
+          "niceName": "Canada",
+          "iso": "CA",
+          "iso3": "CAN",
+          "numericCode": 124
+        },
+        {
+          "id": 39,
+          "name": "cape verde",
+          "niceName": "Cape Verde",
+          "iso": "CV",
+          "iso3": "CPV",
+          "numericCode": 132
+        },
+        {
+          "id": 40,
+          "name": "cayman islands",
+          "niceName": "Cayman Islands",
+          "iso": "KY",
+          "iso3": "CYM",
+          "numericCode": 136
+        },
+        {
+          "id": 41,
+          "name": "central african republic",
+          "niceName": "Central African Republic",
+          "iso": "CF",
+          "iso3": "CAF",
+          "numericCode": 140
+        },
+        {
+          "id": 42,
+          "name": "chad",
+          "niceName": "Chad",
+          "iso": "TD",
+          "iso3": "TCD",
+          "numericCode": 148
+        },
+        {
+          "id": 43,
+          "name": "chile",
+          "niceName": "Chile",
+          "iso": "CL",
+          "iso3": "CHL",
+          "numericCode": 152
+        },
+        {
+          "id": 44,
+          "name": "china",
+          "niceName": "China",
+          "iso": "CN",
+          "iso3": "CHN",
+          "numericCode": 156
+        },
+        {
+          "id": 45,
+          "name": "christmas island",
+          "niceName": "Christmas Island",
+          "iso": "CX",
+          "iso3": "CXR",
+          "numericCode": 162
+        },
+        {
+          "id": 46,
+          "name": "cocos (keeling) islands",
+          "niceName": "Cocos (Keeling) Islands",
+          "iso": "CC",
+          "iso3": null,
+          "numericCode": null
+        },
+        {
+          "id": 47,
+          "name": "colombia",
+          "niceName": "Colombia",
+          "iso": "CO",
+          "iso3": "COL",
+          "numericCode": 170
+        },
+        {
+          "id": 48,
+          "name": "comoros",
+          "niceName": "Comoros",
+          "iso": "KM",
+          "iso3": "COM",
+          "numericCode": 174
+        },
+        {
+          "id": 49,
+          "name": "congo",
+          "niceName": "Congo",
+          "iso": "CG",
+          "iso3": "COG",
+          "numericCode": 178
+        },
+        {
+          "id": 50,
+          "name": "congo, the democratic republic of the",
+          "niceName": "Congo, the Democratic Republic of the",
+          "iso": "CD",
+          "iso3": "COD",
+          "numericCode": 180
+        },
+        {
+          "id": 51,
+          "name": "cook islands",
+          "niceName": "Cook Islands",
+          "iso": "CK",
+          "iso3": "COK",
+          "numericCode": 184
+        },
+        {
+          "id": 52,
+          "name": "costa rica",
+          "niceName": "Costa Rica",
+          "iso": "CR",
+          "iso3": "CRI",
+          "numericCode": 188
+        },
+        {
+          "id": 53,
+          "name": "cote d'ivoire",
+          "niceName": "Cote D'Ivoire",
+          "iso": "CI",
+          "iso3": "CIV",
+          "numericCode": 384
+        },
+        {
+          "id": 54,
+          "name": "croatia",
+          "niceName": "Croatia",
+          "iso": "HR",
+          "iso3": "HRV",
+          "numericCode": 191
+        },
+        {
+          "id": 55,
+          "name": "cuba",
+          "niceName": "Cuba",
+          "iso": "CU",
+          "iso3": "CUB",
+          "numericCode": 192
+        },
+        {
+          "id": 244,
+          "name": "curacao",
+          "niceName": "Curacao",
+          "iso": "CW",
+          "iso3": "CUW",
+          "numericCode": 531
+        },
+        {
+          "id": 56,
+          "name": "cyprus",
+          "niceName": "Cyprus",
+          "iso": "CY",
+          "iso3": "CYP",
+          "numericCode": 196
+        },
+        {
+          "id": 57,
+          "name": "czechia",
+          "niceName": "Czech Republic",
+          "iso": "CZ",
+          "iso3": "CZE",
+          "numericCode": 203
+        },
+        {
+          "id": 58,
+          "name": "denmark",
+          "niceName": "Denmark",
+          "iso": "DK",
+          "iso3": "DNK",
+          "numericCode": 208
+        },
+        {
+          "id": 59,
+          "name": "djibouti",
+          "niceName": "Djibouti",
+          "iso": "DJ",
+          "iso3": "DJI",
+          "numericCode": 262
+        },
+        {
+          "id": 60,
+          "name": "dominica",
+          "niceName": "Dominica",
+          "iso": "DM",
+          "iso3": "DMA",
+          "numericCode": 212
+        },
+        {
+          "id": 61,
+          "name": "dominican republic",
+          "niceName": "Dominican Republic",
+          "iso": "DO",
+          "iso3": "DOM",
+          "numericCode": 214
+        },
+        {
+          "id": 62,
+          "name": "ecuador",
+          "niceName": "Ecuador",
+          "iso": "EC",
+          "iso3": "ECU",
+          "numericCode": 218
+        },
+        {
+          "id": 63,
+          "name": "egypt",
+          "niceName": "Egypt",
+          "iso": "EG",
+          "iso3": "EGY",
+          "numericCode": 818
+        },
+        {
+          "id": 64,
+          "name": "el salvador",
+          "niceName": "El Salvador",
+          "iso": "SV",
+          "iso3": "SLV",
+          "numericCode": 222
+        },
+        {
+          "id": 65,
+          "name": "equatorial guinea",
+          "niceName": "Equatorial Guinea",
+          "iso": "GQ",
+          "iso3": "GNQ",
+          "numericCode": 226
+        },
+        {
+          "id": 66,
+          "name": "eritrea",
+          "niceName": "Eritrea",
+          "iso": "ER",
+          "iso3": "ERI",
+          "numericCode": 232
+        },
+        {
+          "id": 67,
+          "name": "estonia",
+          "niceName": "Estonia",
+          "iso": "EE",
+          "iso3": "EST",
+          "numericCode": 233
+        },
+        {
+          "id": 68,
+          "name": "ethiopia",
+          "niceName": "Ethiopia",
+          "iso": "ET",
+          "iso3": "ETH",
+          "numericCode": 231
+        },
+        {
+          "id": 253,
+          "name": "europe",
+          "niceName": "Europe",
+          "iso": "EU",
+          "iso3": "EU",
+          "numericCode": null
+        },
+        {
+          "id": 69,
+          "name": "falkland islands (malvinas)",
+          "niceName": "Falkland Islands (Malvinas)",
+          "iso": "FK",
+          "iso3": "FLK",
+          "numericCode": 238
+        },
+        {
+          "id": 70,
+          "name": "faroe islands",
+          "niceName": "Faroe Islands",
+          "iso": "FO",
+          "iso3": "FRO",
+          "numericCode": 234
+        },
+        {
+          "id": 71,
+          "name": "fiji",
+          "niceName": "Fiji",
+          "iso": "FJ",
+          "iso3": "FJI",
+          "numericCode": 242
+        },
+        {
+          "id": 72,
+          "name": "finland",
+          "niceName": "Finland",
+          "iso": "FI",
+          "iso3": "FIN",
+          "numericCode": 246
+        },
+        {
+          "id": 73,
+          "name": "france",
+          "niceName": "France",
+          "iso": "FR",
+          "iso3": "FRA",
+          "numericCode": 250
+        },
+        {
+          "id": 74,
+          "name": "french guiana",
+          "niceName": "French Guiana",
+          "iso": "GF",
+          "iso3": "GUF",
+          "numericCode": 254
+        },
+        {
+          "id": 75,
+          "name": "french polynesia",
+          "niceName": "French Polynesia",
+          "iso": "PF",
+          "iso3": "PYF",
+          "numericCode": 258
+        },
+        {
+          "id": 76,
+          "name": "french southern territories",
+          "niceName": "French Southern Territories",
+          "iso": "TF",
+          "iso3": "ATF",
+          "numericCode": 260
+        },
+        {
+          "id": 77,
+          "name": "gabon",
+          "niceName": "Gabon",
+          "iso": "GA",
+          "iso3": "GAB",
+          "numericCode": 266
+        },
+        {
+          "id": 78,
+          "name": "gambia",
+          "niceName": "Gambia",
+          "iso": "GM",
+          "iso3": "GMB",
+          "numericCode": 270
+        },
+        {
+          "id": 79,
+          "name": "georgia",
+          "niceName": "Georgia",
+          "iso": "GE",
+          "iso3": "GEO",
+          "numericCode": 268
+        },
+        {
+          "id": 80,
+          "name": "germany",
+          "niceName": "Germany",
+          "iso": "DE",
+          "iso3": "DEU",
+          "numericCode": 276
+        },
+        {
+          "id": 81,
+          "name": "ghana",
+          "niceName": "Ghana",
+          "iso": "GH",
+          "iso3": "GHA",
+          "numericCode": 288
+        },
+        {
+          "id": 82,
+          "name": "gibraltar",
+          "niceName": "Gibraltar",
+          "iso": "GI",
+          "iso3": "GIB",
+          "numericCode": 292
+        },
+        {
+          "id": 83,
+          "name": "greece",
+          "niceName": "Greece",
+          "iso": "GR",
+          "iso3": "GRC",
+          "numericCode": 300
+        },
+        {
+          "id": 84,
+          "name": "greenland",
+          "niceName": "Greenland",
+          "iso": "GL",
+          "iso3": "GRL",
+          "numericCode": 304
+        },
+        {
+          "id": 85,
+          "name": "grenada",
+          "niceName": "Grenada",
+          "iso": "GD",
+          "iso3": "GRD",
+          "numericCode": 308
+        },
+        {
+          "id": 86,
+          "name": "guadeloupe",
+          "niceName": "Guadeloupe",
+          "iso": "GP",
+          "iso3": "GLP",
+          "numericCode": 312
+        },
+        {
+          "id": 87,
+          "name": "guam",
+          "niceName": "Guam",
+          "iso": "GU",
+          "iso3": "GUM",
+          "numericCode": 316
+        },
+        {
+          "id": 88,
+          "name": "guatemala",
+          "niceName": "Guatemala",
+          "iso": "GT",
+          "iso3": "GTM",
+          "numericCode": 320
+        },
+        {
+          "id": 245,
+          "name": "guernsey",
+          "niceName": "Guernsey",
+          "iso": "GG",
+          "iso3": "GGY",
+          "numericCode": 831
+        },
+        {
+          "id": 89,
+          "name": "guinea",
+          "niceName": "Guinea",
+          "iso": "GN",
+          "iso3": "GIN",
+          "numericCode": 324
+        },
+        {
+          "id": 90,
+          "name": "guinea-bissau",
+          "niceName": "Guinea-Bissau",
+          "iso": "GW",
+          "iso3": "GNB",
+          "numericCode": 624
+        },
+        {
+          "id": 91,
+          "name": "guyana",
+          "niceName": "Guyana",
+          "iso": "GY",
+          "iso3": "GUY",
+          "numericCode": 328
+        },
+        {
+          "id": 92,
+          "name": "haiti",
+          "niceName": "Haiti",
+          "iso": "HT",
+          "iso3": "HTI",
+          "numericCode": 332
+        },
+        {
+          "id": 93,
+          "name": "heard island and mcdonald islands",
+          "niceName": "Heard Island and Mcdonald Islands",
+          "iso": "HM",
+          "iso3": "HMD",
+          "numericCode": 334
+        },
+        {
+          "id": 94,
+          "name": "holy see (vatican city state)",
+          "niceName": "Holy See (Vatican City State)",
+          "iso": "VA",
+          "iso3": "VAT",
+          "numericCode": 336
+        },
+        {
+          "id": 95,
+          "name": "honduras",
+          "niceName": "Honduras",
+          "iso": "HN",
+          "iso3": "HND",
+          "numericCode": 340
+        },
+        {
+          "id": 96,
+          "name": "hong kong",
+          "niceName": "Hong Kong",
+          "iso": "HK",
+          "iso3": "HKG",
+          "numericCode": 344
+        },
+        {
+          "id": 97,
+          "name": "hungary",
+          "niceName": "Hungary",
+          "iso": "HU",
+          "iso3": "HUN",
+          "numericCode": 348
+        },
+        {
+          "id": 98,
+          "name": "iceland",
+          "niceName": "Iceland",
+          "iso": "IS",
+          "iso3": "ISL",
+          "numericCode": 352
+        },
+        {
+          "id": 99,
+          "name": "india",
+          "niceName": "India",
+          "iso": "IN",
+          "iso3": "IND",
+          "numericCode": 356
+        },
+        {
+          "id": 100,
+          "name": "indonesia",
+          "niceName": "Indonesia",
+          "iso": "ID",
+          "iso3": "IDN",
+          "numericCode": 360
+        },
+        {
+          "id": 252,
+          "name": "international",
+          "niceName": "International",
+          "iso": null,
+          "iso3": null,
+          "numericCode": null
+        },
+        {
+          "id": 101,
+          "name": "iran, islamic republic of",
+          "niceName": "Iran, Islamic Republic of",
+          "iso": "IR",
+          "iso3": "IRN",
+          "numericCode": 364
+        },
+        {
+          "id": 102,
+          "name": "iraq",
+          "niceName": "Iraq",
+          "iso": "IQ",
+          "iso3": "IRQ",
+          "numericCode": 368
+        },
+        {
+          "id": 103,
+          "name": "ireland",
+          "niceName": "Ireland",
+          "iso": "IE",
+          "iso3": "IRL",
+          "numericCode": 372
+        },
+        {
+          "id": 246,
+          "name": "isle of man",
+          "niceName": "Isle of Man",
+          "iso": "IM",
+          "iso3": "IMN",
+          "numericCode": 833
+        },
+        {
+          "id": 104,
+          "name": "israel",
+          "niceName": "Israel",
+          "iso": "IL",
+          "iso3": "ISR",
+          "numericCode": 376
+        },
+        {
+          "id": 105,
+          "name": "italy",
+          "niceName": "Italy",
+          "iso": "IT",
+          "iso3": "ITA",
+          "numericCode": 380
+        },
+        {
+          "id": 106,
+          "name": "jamaica",
+          "niceName": "Jamaica",
+          "iso": "JM",
+          "iso3": "JAM",
+          "numericCode": 388
+        },
+        {
+          "id": 107,
+          "name": "japan",
+          "niceName": "Japan",
+          "iso": "JP",
+          "iso3": "JPN",
+          "numericCode": 392
+        },
+        {
+          "id": 247,
+          "name": "jersey",
+          "niceName": "Jersey",
+          "iso": "JE",
+          "iso3": "JEY",
+          "numericCode": 832
+        },
+        {
+          "id": 108,
+          "name": "jordan",
+          "niceName": "Jordan",
+          "iso": "JO",
+          "iso3": "JOR",
+          "numericCode": 400
+        },
+        {
+          "id": 109,
+          "name": "kazakhstan",
+          "niceName": "Kazakhstan",
+          "iso": "KZ",
+          "iso3": "KAZ",
+          "numericCode": 398
+        },
+        {
+          "id": 110,
+          "name": "kenya",
+          "niceName": "Kenya",
+          "iso": "KE",
+          "iso3": "KEN",
+          "numericCode": 404
+        },
+        {
+          "id": 111,
+          "name": "kiribati",
+          "niceName": "Kiribati",
+          "iso": "KI",
+          "iso3": "KIR",
+          "numericCode": 296
+        },
+        {
+          "id": 112,
+          "name": "korea, democratic people's republic of",
+          "niceName": "Korea, Democratic People's Republic of",
+          "iso": "KP",
+          "iso3": "PRK",
+          "numericCode": 408
+        },
+        {
+          "id": 113,
+          "name": "korea, republic of",
+          "niceName": "Korea, Republic of",
+          "iso": "KR",
+          "iso3": "KOR",
+          "numericCode": 410
+        },
+        {
+          "id": 241,
+          "name": "kosovo",
+          "niceName": "Kosovo",
+          "iso": "XK",
+          "iso3": "XKX",
+          "numericCode": 0
+        },
+        {
+          "id": 114,
+          "name": "kuwait",
+          "niceName": "Kuwait",
+          "iso": "KW",
+          "iso3": "KWT",
+          "numericCode": 414
+        },
+        {
+          "id": 115,
+          "name": "kyrgyzstan",
+          "niceName": "Kyrgyzstan",
+          "iso": "KG",
+          "iso3": "KGZ",
+          "numericCode": 417
+        },
+        {
+          "id": 116,
+          "name": "lao people's democratic republic",
+          "niceName": "Lao People's Democratic Republic",
+          "iso": "LA",
+          "iso3": "LAO",
+          "numericCode": 418
+        },
+        {
+          "id": 117,
+          "name": "latvia",
+          "niceName": "Latvia",
+          "iso": "LV",
+          "iso3": "LVA",
+          "numericCode": 428
+        },
+        {
+          "id": 118,
+          "name": "lebanon",
+          "niceName": "Lebanon",
+          "iso": "LB",
+          "iso3": "LBN",
+          "numericCode": 422
+        },
+        {
+          "id": 119,
+          "name": "lesotho",
+          "niceName": "Lesotho",
+          "iso": "LS",
+          "iso3": "LSO",
+          "numericCode": 426
+        },
+        {
+          "id": 120,
+          "name": "liberia",
+          "niceName": "Liberia",
+          "iso": "LR",
+          "iso3": "LBR",
+          "numericCode": 430
+        },
+        {
+          "id": 121,
+          "name": "libyan arab jamahiriya",
+          "niceName": "Libyan Arab Jamahiriya",
+          "iso": "LY",
+          "iso3": "LBY",
+          "numericCode": 434
+        },
+        {
+          "id": 122,
+          "name": "liechtenstein",
+          "niceName": "Liechtenstein",
+          "iso": "LI",
+          "iso3": "LIE",
+          "numericCode": 438
+        },
+        {
+          "id": 123,
+          "name": "lithuania",
+          "niceName": "Lithuania",
+          "iso": "LT",
+          "iso3": "LTU",
+          "numericCode": 440
+        },
+        {
+          "id": 124,
+          "name": "luxembourg",
+          "niceName": "Luxembourg",
+          "iso": "LU",
+          "iso3": "LUX",
+          "numericCode": 442
+        },
+        {
+          "id": 125,
+          "name": "macao",
+          "niceName": "Macao",
+          "iso": "MO",
+          "iso3": "MAC",
+          "numericCode": 446
+        },
+        {
+          "id": 127,
+          "name": "madagascar",
+          "niceName": "Madagascar",
+          "iso": "MG",
+          "iso3": "MDG",
+          "numericCode": 450
+        },
+        {
+          "id": 128,
+          "name": "malawi",
+          "niceName": "Malawi",
+          "iso": "MW",
+          "iso3": "MWI",
+          "numericCode": 454
+        },
+        {
+          "id": 129,
+          "name": "malaysia",
+          "niceName": "Malaysia",
+          "iso": "MY",
+          "iso3": "MYS",
+          "numericCode": 458
+        },
+        {
+          "id": 130,
+          "name": "maldives",
+          "niceName": "Maldives",
+          "iso": "MV",
+          "iso3": "MDV",
+          "numericCode": 462
+        },
+        {
+          "id": 131,
+          "name": "mali",
+          "niceName": "Mali",
+          "iso": "ML",
+          "iso3": "MLI",
+          "numericCode": 466
+        },
+        {
+          "id": 132,
+          "name": "malta",
+          "niceName": "Malta",
+          "iso": "MT",
+          "iso3": "MLT",
+          "numericCode": 470
+        },
+        {
+          "id": 133,
+          "name": "marshall islands",
+          "niceName": "Marshall Islands",
+          "iso": "MH",
+          "iso3": "MHL",
+          "numericCode": 584
+        },
+        {
+          "id": 134,
+          "name": "martinique",
+          "niceName": "Martinique",
+          "iso": "MQ",
+          "iso3": "MTQ",
+          "numericCode": 474
+        },
+        {
+          "id": 135,
+          "name": "mauritania",
+          "niceName": "Mauritania",
+          "iso": "MR",
+          "iso3": "MRT",
+          "numericCode": 478
+        },
+        {
+          "id": 136,
+          "name": "mauritius",
+          "niceName": "Mauritius",
+          "iso": "MU",
+          "iso3": "MUS",
+          "numericCode": 480
+        },
+        {
+          "id": 137,
+          "name": "mayotte",
+          "niceName": "Mayotte",
+          "iso": "YT",
+          "iso3": "MYT",
+          "numericCode": 175
+        },
+        {
+          "id": 138,
+          "name": "mexico",
+          "niceName": "Mexico",
+          "iso": "MX",
+          "iso3": "MEX",
+          "numericCode": 484
+        },
+        {
+          "id": 139,
+          "name": "micronesia, federated states of",
+          "niceName": "Micronesia, Federated States of",
+          "iso": "FM",
+          "iso3": "FSM",
+          "numericCode": 583
+        },
+        {
+          "id": 140,
+          "name": "moldova, republic of",
+          "niceName": "Moldova, Republic of",
+          "iso": "MD",
+          "iso3": "MDA",
+          "numericCode": 498
+        },
+        {
+          "id": 141,
+          "name": "monaco",
+          "niceName": "Monaco",
+          "iso": "MC",
+          "iso3": "MCO",
+          "numericCode": 492
+        },
+        {
+          "id": 142,
+          "name": "mongolia",
+          "niceName": "Mongolia",
+          "iso": "MN",
+          "iso3": "MNG",
+          "numericCode": 496
+        },
+        {
+          "id": 240,
+          "name": "montenegro",
+          "niceName": "Montenegro",
+          "iso": "ME",
+          "iso3": "MNE",
+          "numericCode": 499
+        },
+        {
+          "id": 143,
+          "name": "montserrat",
+          "niceName": "Montserrat",
+          "iso": "MS",
+          "iso3": "MSR",
+          "numericCode": 500
+        },
+        {
+          "id": 144,
+          "name": "morocco",
+          "niceName": "Morocco",
+          "iso": "MA",
+          "iso3": "MAR",
+          "numericCode": 504
+        },
+        {
+          "id": 145,
+          "name": "mozambique",
+          "niceName": "Mozambique",
+          "iso": "MZ",
+          "iso3": "MOZ",
+          "numericCode": 508
+        },
+        {
+          "id": 146,
+          "name": "myanmar",
+          "niceName": "Myanmar",
+          "iso": "MM",
+          "iso3": "MMR",
+          "numericCode": 104
+        },
+        {
+          "id": 147,
+          "name": "namibia",
+          "niceName": "Namibia",
+          "iso": "NA",
+          "iso3": "NAM",
+          "numericCode": 516
+        },
+        {
+          "id": 148,
+          "name": "nauru",
+          "niceName": "Nauru",
+          "iso": "NR",
+          "iso3": "NRU",
+          "numericCode": 520
+        },
+        {
+          "id": 149,
+          "name": "nepal",
+          "niceName": "Nepal",
+          "iso": "NP",
+          "iso3": "NPL",
+          "numericCode": 524
+        },
+        {
+          "id": 150,
+          "name": "netherlands",
+          "niceName": "Netherlands",
+          "iso": "NL",
+          "iso3": "NLD",
+          "numericCode": 528
+        },
+        {
+          "id": 151,
+          "name": "netherlands antilles",
+          "niceName": "Netherlands Antilles",
+          "iso": "AN",
+          "iso3": "ANT",
+          "numericCode": 530
+        },
+        {
+          "id": 152,
+          "name": "new caledonia",
+          "niceName": "New Caledonia",
+          "iso": "NC",
+          "iso3": "NCL",
+          "numericCode": 540
+        },
+        {
+          "id": 153,
+          "name": "new zealand",
+          "niceName": "New Zealand",
+          "iso": "NZ",
+          "iso3": "NZL",
+          "numericCode": 554
+        },
+        {
+          "id": 154,
+          "name": "nicaragua",
+          "niceName": "Nicaragua",
+          "iso": "NI",
+          "iso3": "NIC",
+          "numericCode": 558
+        },
+        {
+          "id": 155,
+          "name": "niger",
+          "niceName": "Niger",
+          "iso": "NE",
+          "iso3": "NER",
+          "numericCode": 562
+        },
+        {
+          "id": 156,
+          "name": "nigeria",
+          "niceName": "Nigeria",
+          "iso": "NG",
+          "iso3": "NGA",
+          "numericCode": 566
+        },
+        {
+          "id": 157,
+          "name": "niue",
+          "niceName": "Niue",
+          "iso": "NU",
+          "iso3": "NIU",
+          "numericCode": 570
+        },
+        {
+          "id": 158,
+          "name": "norfolk island",
+          "niceName": "Norfolk Island",
+          "iso": "NF",
+          "iso3": "NFK",
+          "numericCode": 574
+        },
+        {
+          "id": 159,
+          "name": "northern mariana islands",
+          "niceName": "Northern Mariana Islands",
+          "iso": "MP",
+          "iso3": "MNP",
+          "numericCode": 580
+        },
+        {
+          "id": 126,
+          "name": "north macedonia",
+          "niceName": "North Macedonia",
+          "iso": "MK",
+          "iso3": "MKD",
+          "numericCode": 807
+        },
+        {
+          "id": 160,
+          "name": "norway",
+          "niceName": "Norway",
+          "iso": "NO",
+          "iso3": "NOR",
+          "numericCode": 578
+        },
+        {
+          "id": 161,
+          "name": "oman",
+          "niceName": "Oman",
+          "iso": "OM",
+          "iso3": "OMN",
+          "numericCode": 512
+        },
+        {
+          "id": 162,
+          "name": "pakistan",
+          "niceName": "Pakistan",
+          "iso": "PK",
+          "iso3": "PAK",
+          "numericCode": 586
+        },
+        {
+          "id": 163,
+          "name": "palau",
+          "niceName": "Palau",
+          "iso": "PW",
+          "iso3": "PLW",
+          "numericCode": 585
+        },
+        {
+          "id": 164,
+          "name": "palestinian territory, occupied",
+          "niceName": "Palestinian Territory, Occupied",
+          "iso": "PS",
+          "iso3": null,
+          "numericCode": null
+        },
+        {
+          "id": 165,
+          "name": "panama",
+          "niceName": "Panama",
+          "iso": "PA",
+          "iso3": "PAN",
+          "numericCode": 591
+        },
+        {
+          "id": 166,
+          "name": "papua new guinea",
+          "niceName": "Papua New Guinea",
+          "iso": "PG",
+          "iso3": "PNG",
+          "numericCode": 598
+        },
+        {
+          "id": 167,
+          "name": "paraguay",
+          "niceName": "Paraguay",
+          "iso": "PY",
+          "iso3": "PRY",
+          "numericCode": 600
+        },
+        {
+          "id": 168,
+          "name": "peru",
+          "niceName": "Peru",
+          "iso": "PE",
+          "iso3": "PER",
+          "numericCode": 604
+        },
+        {
+          "id": 169,
+          "name": "philippines",
+          "niceName": "Philippines",
+          "iso": "PH",
+          "iso3": "PHL",
+          "numericCode": 608
+        },
+        {
+          "id": 170,
+          "name": "pitcairn",
+          "niceName": "Pitcairn",
+          "iso": "PN",
+          "iso3": "PCN",
+          "numericCode": 612
+        },
+        {
+          "id": 171,
+          "name": "poland",
+          "niceName": "Poland",
+          "iso": "PL",
+          "iso3": "POL",
+          "numericCode": 616
+        },
+        {
+          "id": 172,
+          "name": "portugal",
+          "niceName": "Portugal",
+          "iso": "PT",
+          "iso3": "PRT",
+          "numericCode": 620
+        },
+        {
+          "id": 173,
+          "name": "puerto rico",
+          "niceName": "Puerto Rico",
+          "iso": "PR",
+          "iso3": "PRI",
+          "numericCode": 630
+        },
+        {
+          "id": 174,
+          "name": "qatar",
+          "niceName": "Qatar",
+          "iso": "QA",
+          "iso3": "QAT",
+          "numericCode": 634
+        },
+        {
+          "id": 175,
+          "name": "reunion",
+          "niceName": "Reunion",
+          "iso": "RE",
+          "iso3": "REU",
+          "numericCode": 638
+        },
+        {
+          "id": 176,
+          "name": "romania",
+          "niceName": "Romania",
+          "iso": "RO",
+          "iso3": "ROU",
+          "numericCode": 642
+        },
+        {
+          "id": 177,
+          "name": "russian federation",
+          "niceName": "Russian Federation",
+          "iso": "RU",
+          "iso3": "RUS",
+          "numericCode": 643
+        },
+        {
+          "id": 178,
+          "name": "rwanda",
+          "niceName": "Rwanda",
+          "iso": "RW",
+          "iso3": "RWA",
+          "numericCode": 646
+        },
+        {
+          "id": 248,
+          "name": "saint barthelemy",
+          "niceName": "Saint Barthelemy",
+          "iso": "BL",
+          "iso3": "BLM",
+          "numericCode": 652
+        },
+        {
+          "id": 179,
+          "name": "saint helena",
+          "niceName": "Saint Helena",
+          "iso": "SH",
+          "iso3": "SHN",
+          "numericCode": 654
+        },
+        {
+          "id": 180,
+          "name": "saint kitts and nevis",
+          "niceName": "Saint Kitts and Nevis",
+          "iso": "KN",
+          "iso3": "KNA",
+          "numericCode": 659
+        },
+        {
+          "id": 181,
+          "name": "saint lucia",
+          "niceName": "Saint Lucia",
+          "iso": "LC",
+          "iso3": "LCA",
+          "numericCode": 662
+        },
+        {
+          "id": 249,
+          "name": "saint martin",
+          "niceName": "Saint Martin",
+          "iso": "MF",
+          "iso3": "MAF",
+          "numericCode": 663
+        },
+        {
+          "id": 182,
+          "name": "saint pierre and miquelon",
+          "niceName": "Saint Pierre and Miquelon",
+          "iso": "PM",
+          "iso3": "SPM",
+          "numericCode": 666
+        },
+        {
+          "id": 183,
+          "name": "saint vincent and the grenadines",
+          "niceName": "Saint Vincent and the Grenadines",
+          "iso": "VC",
+          "iso3": "VCT",
+          "numericCode": 670
+        },
+        {
+          "id": 184,
+          "name": "samoa",
+          "niceName": "Samoa",
+          "iso": "WS",
+          "iso3": "WSM",
+          "numericCode": 882
+        },
+        {
+          "id": 185,
+          "name": "san marino",
+          "niceName": "San Marino",
+          "iso": "SM",
+          "iso3": "SMR",
+          "numericCode": 674
+        },
+        {
+          "id": 186,
+          "name": "sao tome and principe",
+          "niceName": "Sao Tome and Principe",
+          "iso": "ST",
+          "iso3": "STP",
+          "numericCode": 678
+        },
+        {
+          "id": 187,
+          "name": "saudi arabia",
+          "niceName": "Saudi Arabia",
+          "iso": "SA",
+          "iso3": "SAU",
+          "numericCode": 682
+        },
+        {
+          "id": 188,
+          "name": "senegal",
+          "niceName": "Senegal",
+          "iso": "SN",
+          "iso3": "SEN",
+          "numericCode": 686
+        },
+        {
+          "id": 189,
+          "name": "serbia",
+          "niceName": "Serbia",
+          "iso": "RS",
+          "iso3": "SRB",
+          "numericCode": 688
+        },
+        {
+          "id": 190,
+          "name": "seychelles",
+          "niceName": "Seychelles",
+          "iso": "SC",
+          "iso3": "SYC",
+          "numericCode": 690
+        },
+        {
+          "id": 191,
+          "name": "sierra leone",
+          "niceName": "Sierra Leone",
+          "iso": "SL",
+          "iso3": "SLE",
+          "numericCode": 694
+        },
+        {
+          "id": 192,
+          "name": "singapore",
+          "niceName": "Singapore",
+          "iso": "SG",
+          "iso3": "SGP",
+          "numericCode": 702
+        },
+        {
+          "id": 250,
+          "name": "sint maarten",
+          "niceName": "Sint Maarten",
+          "iso": "SX",
+          "iso3": "SXM",
+          "numericCode": 534
+        },
+        {
+          "id": 193,
+          "name": "slovakia",
+          "niceName": "Slovakia",
+          "iso": "SK",
+          "iso3": "SVK",
+          "numericCode": 703
+        },
+        {
+          "id": 194,
+          "name": "slovenia",
+          "niceName": "Slovenia",
+          "iso": "SI",
+          "iso3": "SVN",
+          "numericCode": 705
+        },
+        {
+          "id": 195,
+          "name": "solomon islands",
+          "niceName": "Solomon Islands",
+          "iso": "SB",
+          "iso3": "SLB",
+          "numericCode": 90
+        },
+        {
+          "id": 196,
+          "name": "somalia",
+          "niceName": "Somalia",
+          "iso": "SO",
+          "iso3": "SOM",
+          "numericCode": 706
+        },
+        {
+          "id": 197,
+          "name": "south africa",
+          "niceName": "South Africa",
+          "iso": "ZA",
+          "iso3": "ZAF",
+          "numericCode": 710
+        },
+        {
+          "id": 198,
+          "name": "south georgia and the south sandwich islands",
+          "niceName": "South Georgia and the South Sandwich Islands",
+          "iso": "GS",
+          "iso3": "SGS",
+          "numericCode": 239
+        },
+        {
+          "id": 251,
+          "name": "south sudan",
+          "niceName": "South Sudan",
+          "iso": "SS",
+          "iso3": "SSD",
+          "numericCode": 728
+        },
+        {
+          "id": 199,
+          "name": "spain",
+          "niceName": "Spain",
+          "iso": "ES",
+          "iso3": "ESP",
+          "numericCode": 724
+        },
+        {
+          "id": 200,
+          "name": "sri lanka",
+          "niceName": "Sri Lanka",
+          "iso": "LK",
+          "iso3": "LKA",
+          "numericCode": 144
+        },
+        {
+          "id": 201,
+          "name": "sudan",
+          "niceName": "Sudan",
+          "iso": "SD",
+          "iso3": "SDN",
+          "numericCode": 736
+        },
+        {
+          "id": 202,
+          "name": "suriname",
+          "niceName": "Suriname",
+          "iso": "SR",
+          "iso3": "SUR",
+          "numericCode": 740
+        },
+        {
+          "id": 203,
+          "name": "svalbard and jan mayen",
+          "niceName": "Svalbard and Jan Mayen",
+          "iso": "SJ",
+          "iso3": "SJM",
+          "numericCode": 744
+        },
+        {
+          "id": 204,
+          "name": "swaziland",
+          "niceName": "Swaziland",
+          "iso": "SZ",
+          "iso3": "SWZ",
+          "numericCode": 748
+        },
+        {
+          "id": 205,
+          "name": "sweden",
+          "niceName": "Sweden",
+          "iso": "SE",
+          "iso3": "SWE",
+          "numericCode": 752
+        },
+        {
+          "id": 206,
+          "name": "switzerland",
+          "niceName": "Switzerland",
+          "iso": "CH",
+          "iso3": "CHE",
+          "numericCode": 756
+        },
+        {
+          "id": 207,
+          "name": "syrian arab republic",
+          "niceName": "Syrian Arab Republic",
+          "iso": "SY",
+          "iso3": "SYR",
+          "numericCode": 760
+        },
+        {
+          "id": 208,
+          "name": "taiwan, province of china",
+          "niceName": "Taiwan, Province of China",
+          "iso": "TW",
+          "iso3": "TWN",
+          "numericCode": 158
+        },
+        {
+          "id": 209,
+          "name": "tajikistan",
+          "niceName": "Tajikistan",
+          "iso": "TJ",
+          "iso3": "TJK",
+          "numericCode": 762
+        },
+        {
+          "id": 210,
+          "name": "tanzania, united republic of",
+          "niceName": "Tanzania, United Republic of",
+          "iso": "TZ",
+          "iso3": "TZA",
+          "numericCode": 834
+        },
+        {
+          "id": 211,
+          "name": "thailand",
+          "niceName": "Thailand",
+          "iso": "TH",
+          "iso3": "THA",
+          "numericCode": 764
+        },
+        {
+          "id": 212,
+          "name": "timor-leste",
+          "niceName": "Timor-Leste",
+          "iso": "TL",
+          "iso3": "TLS",
+          "numericCode": 626
+        },
+        {
+          "id": 213,
+          "name": "togo",
+          "niceName": "Togo",
+          "iso": "TG",
+          "iso3": "TGO",
+          "numericCode": 768
+        },
+        {
+          "id": 214,
+          "name": "tokelau",
+          "niceName": "Tokelau",
+          "iso": "TK",
+          "iso3": "TKL",
+          "numericCode": 772
+        },
+        {
+          "id": 215,
+          "name": "tonga",
+          "niceName": "Tonga",
+          "iso": "TO",
+          "iso3": "TON",
+          "numericCode": 776
+        },
+        {
+          "id": 216,
+          "name": "trinidad and tobago",
+          "niceName": "Trinidad and Tobago",
+          "iso": "TT",
+          "iso3": "TTO",
+          "numericCode": 780
+        },
+        {
+          "id": 217,
+          "name": "tunisia",
+          "niceName": "Tunisia",
+          "iso": "TN",
+          "iso3": "TUN",
+          "numericCode": 788
+        },
+        {
+          "id": 218,
+          "name": "turkey",
+          "niceName": "Turkey",
+          "iso": "TR",
+          "iso3": "TUR",
+          "numericCode": 792
+        },
+        {
+          "id": 219,
+          "name": "turkmenistan",
+          "niceName": "Turkmenistan",
+          "iso": "TM",
+          "iso3": "TKM",
+          "numericCode": 795
+        },
+        {
+          "id": 220,
+          "name": "turks and caicos islands",
+          "niceName": "Turks and Caicos Islands",
+          "iso": "TC",
+          "iso3": "TCA",
+          "numericCode": 796
+        },
+        {
+          "id": 221,
+          "name": "tuvalu",
+          "niceName": "Tuvalu",
+          "iso": "TV",
+          "iso3": "TUV",
+          "numericCode": 798
+        },
+        {
+          "id": 222,
+          "name": "uganda",
+          "niceName": "Uganda",
+          "iso": "UG",
+          "iso3": "UGA",
+          "numericCode": 800
+        },
+        {
+          "id": 223,
+          "name": "ukraine",
+          "niceName": "Ukraine",
+          "iso": "UA",
+          "iso3": "UKR",
+          "numericCode": 804
+        },
+        {
+          "id": 224,
+          "name": "united arab emirates",
+          "niceName": "United Arab Emirates",
+          "iso": "AE",
+          "iso3": "ARE",
+          "numericCode": 784
+        },
+        {
+          "id": 225,
+          "name": "united kingdom",
+          "niceName": "United Kingdom",
+          "iso": "GB",
+          "iso3": "GBR",
+          "numericCode": 826
+        },
+        {
+          "id": 226,
+          "name": "united states",
+          "niceName": "United States",
+          "iso": "US",
+          "iso3": "USA",
+          "numericCode": 840
+        },
+        {
+          "id": 227,
+          "name": "united states minor outlying islands",
+          "niceName": "United States Minor Outlying Islands",
+          "iso": "UM",
+          "iso3": "UMI",
+          "numericCode": 581
+        },
+        {
+          "id": 228,
+          "name": "uruguay",
+          "niceName": "Uruguay",
+          "iso": "UY",
+          "iso3": "URY",
+          "numericCode": 858
+        },
+        {
+          "id": 229,
+          "name": "uzbekistan",
+          "niceName": "Uzbekistan",
+          "iso": "UZ",
+          "iso3": "UZB",
+          "numericCode": 860
+        },
+        {
+          "id": 230,
+          "name": "vanuatu",
+          "niceName": "Vanuatu",
+          "iso": "VU",
+          "iso3": "VUT",
+          "numericCode": 548
+        },
+        {
+          "id": 231,
+          "name": "venezuela",
+          "niceName": "Venezuela",
+          "iso": "VE",
+          "iso3": "VEN",
+          "numericCode": 862
+        },
+        {
+          "id": 232,
+          "name": "viet nam",
+          "niceName": "Viet Nam",
+          "iso": "VN",
+          "iso3": "VNM",
+          "numericCode": 704
+        },
+        {
+          "id": 233,
+          "name": "virgin islands, british",
+          "niceName": "Virgin Islands, British",
+          "iso": "VG",
+          "iso3": "VGB",
+          "numericCode": 92
+        },
+        {
+          "id": 234,
+          "name": "virgin islands, u.s.",
+          "niceName": "Virgin Islands, U.s.",
+          "iso": "VI",
+          "iso3": "VIR",
+          "numericCode": 850
+        },
+        {
+          "id": 235,
+          "name": "wallis and futuna",
+          "niceName": "Wallis and Futuna",
+          "iso": "WF",
+          "iso3": "WLF",
+          "numericCode": 876
+        },
+        {
+          "id": 236,
+          "name": "western sahara",
+          "niceName": "Western Sahara",
+          "iso": "EH",
+          "iso3": "ESH",
+          "numericCode": 732
+        },
+        {
+          "id": 237,
+          "name": "yemen",
+          "niceName": "Yemen",
+          "iso": "YE",
+          "iso3": "YEM",
+          "numericCode": 887
+        },
+        {
+          "id": 238,
+          "name": "zambia",
+          "niceName": "Zambia",
+          "iso": "ZM",
+          "iso3": "ZMB",
+          "numericCode": 894
+        },
+        {
+          "id": 239,
+          "name": "zimbabwe",
+          "niceName": "Zimbabwe",
+          "iso": "ZW",
+          "iso3": "ZWE",
+          "numericCode": 716
+        }
+      ]
+    },
+    "userSettings": {
+      "spoilerMode": true,
+      "userRegions": [
+        "AMERICAS",
+        "EMEA",
+        "PACIFIC",
+        "CHINA"
+      ],
+      "userDivisions": [
+        "VCT",
+        "VCL",
+        "GC",
+        "UNI"
+      ],
+      "isMobile": false,
+      "userIp": "162.158.146.78",
+      "userCountry": "CA",
+      "userRegion": "British Columbia",
+      "userCity": "Vancouver",
+      "userLatitude": "49.21300",
+      "userLongitude": "-123.09510",
+      "userContinent": "NA",
+      "userRegionCode": "BC",
+      "userMetroCode": null,
+      "userPostalCode": "V5X",
+      "userTimezone": "America/Vancouver"
+    }
+  },
+  "__N_SSP": true
+}
