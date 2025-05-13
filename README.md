@@ -1,4 +1,4 @@
-## Valorant dueling prediction model
+## Valorant Dueling Classification Model
 
 This model was heavily inspired by the article, "Winning Fights in VALORANT: A Predictive Analytics Approach", link [here](https://cdn.prod.website-files.com/5f1af76ed86d6771ad48324b/6228f96dd382261a4887643f_Winning%20Duels%20in%20Valorant.pdf).
 
